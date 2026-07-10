@@ -1,0 +1,51 @@
+# Weekly settlement-candidate scan.
+#
+# Scrapes aggregators for newly opened settlements and opens a PR adding
+# draft entries to settlements.json. Draft entries carry REVIEW placeholders —
+# verify each against the official settlement administrator site, edit the
+# eligibility/payout/deadline/keywords, then merge. GitHub Pages redeploys on
+# merge and every install syncs the new catalogue on next launch.
+#
+# If the scrape fails outright (site redesign, bot-blocking), the workflow
+# fails and GitHub emails the repo owner — it never fails silently.
+
+name: Update settlements catalogue
+
+on:
+  schedule:
+    - cron: "0 13 * * 1"   # Mondays 13:00 UTC (~8am CT)
+  workflow_dispatch: {}     # manual "Run workflow" button
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scrape aggregators for new settlements
+        run: python scripts/scrape_candidates.py
+
+      - name: Open review PR if anything changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: catalog/candidates
+          commit-message: "Add settlement candidates from weekly scan"
+          title: "Weekly scan: new settlement candidates for review"
+          body: |
+            The weekly scraper found settlements not yet in the catalogue and
+            added them as **draft entries with REVIEW placeholders**.
+
+            Before merging, for each entry:
+            - [ ] Verify it on the **official settlement administrator site**
+            - [ ] Fill in `eligibility` (one line: who qualifies)
+            - [ ] Confirm `payout` and `deadline`
+            - [ ] Prefer the official admin URL over the aggregator link
+            - [ ] Add `keywords` if receipt-matchable; set `noProofRequired`
+
+            Merging deploys to GitHub Pages; installs sync on next launch.
+          labels: catalog-review
+          delete-branch: true

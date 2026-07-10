@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "updated": "2026-07-10",
+  "settlements": [
+    {
+      "id": "cosequin-joint-2026",
+      "name": "Cosequin Dog Joint Supplement",
+      "eligibility": "Bought Cosequin joint supplements for your dog.",
+      "payout": "Up to $150/household",
+      "deadline": "2026-07-21",
+      "url": "https://classactionbuddy.com/settlements/",
+      "keywords": ["cosequin"],
+      "noProofRequired": true
+    },
+    {
+      "id": "nutricost-magnesium-2026",
+      "name": "Nutricost Magnesium Glycinate Mislabelling",
+      "eligibility": "Bought Nutricost Magnesium Glycinate supplements.",
+      "payout": "Up to $20/household",
+      "deadline": "2026-08-07",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-83m-nutricost-magnesium-glycinate-class-action-settlement/",
+      "keywords": ["nutricost", "magnesium glycinate"],
+      "noProofRequired": true
+    },
+    {
+      "id": "tinder-age-2026",
+      "name": "Tinder Age-Based Pricing",
+      "eligibility": "Paid for Tinder Plus/Gold while 29 or older (charged more than younger users).",
+      "payout": "Varies",
+      "deadline": "2026-08-18",
+      "url": "https://fileyourclaim.co/open-class-action-settlements",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "google-assistant-privacy-2026",
+      "name": "Google Assistant Privacy",
+      "eligibility": "Owned a Google Assistant device that recorded without the hotword.",
+      "payout": "Up to $178/household",
+      "deadline": "2026-08-27",
+      "url": "https://classactionbuddy.com/settlements/google-assistant-privacy-class-action-settlement-68m-fund/",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "fanatics-handling-2026",
+      "name": "Fanatics Handling Fee",
+      "eligibility": "Paid a handling fee on a Fanatics.com order.",
+      "payout": "$10 store credit",
+      "deadline": "2026-08-27",
+      "url": "https://openclassactions.com/settlements/fanatics-handling-fee-class-action-settlement.php",
+      "keywords": ["fanatics"],
+      "noProofRequired": true
+    },
+    {
+      "id": "labcorp-amca-2026",
+      "name": "Labcorp / AMCA Patient Data Breach",
+      "eligibility": "Labcorp patient whose data was exposed in the AMCA billing breach. Up to $5,000 with documented losses.",
+      "payout": "About $50",
+      "deadline": "2026-09-03",
+      "url": "https://fileyourclaim.co/open-class-action-settlements",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "circle-k-data-2026",
+      "name": "Circle K Data Incident",
+      "eligibility": "Received a Circle K data-incident notice.",
+      "payout": "About $50",
+      "deadline": "2026-09-03",
+      "url": "https://classactionbuddy.com/settlements/circle-k-data-breach-class-action-settlement-50-cash-no-proof/",
+      "keywords": ["circle k"],
+      "noProofRequired": true
+    },
+    {
+      "id": "disney-youtubetv-2026",
+      "name": "Disney YouTube TV & DirecTV Stream Pricing",
+      "eligibility": "Subscribed to YouTube TV or DirecTV Stream during the class period.",
+      "payout": "About $50/household",
+      "deadline": "2026-09-08",
+      "url": "https://classactionbuddy.com/settlements/",
+      "keywords": ["youtube tv", "directv"],
+      "noProofRequired": true
+    },
+    {
+      "id": "stiiizy-breach-2026",
+      "name": "STIIIZY Data Breach",
+      "eligibility": "STIIIZY customer whose data was exposed in the 2024 breach.",
+      "payout": "Pro-rata cash",
+      "deadline": "2026-09-10",
+      "url": "https://fileyourclaim.co/open-class-action-settlements",
+      "keywords": ["stiiizy"],
+      "noProofRequired": true
+    },
+    {
+      "id": "google-admob-children-2026",
+      "name": "Google AdMob Children's Data",
+      "eligibility": "Parent of a child whose data was collected via AdMob in kids' apps.",
+      "payout": "Varies",
+      "deadline": "2026-09-14",
+      "url": "https://fileyourclaim.co/open-class-action-settlements",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "serviceaide-catholichealth-2026",
+      "name": "Serviceaide / Catholic Health Breach",
+      "eligibility": "Received a Serviceaide or Catholic Health breach notice.",
+      "payout": "About $50",
+      "deadline": "2026-09-28",
+      "url": "https://fileyourclaim.co/open-class-action-settlements",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "landsend-breach-2026",
+      "name": "Lands' End Data Breach",
+      "eligibility": "Lands' End customer affected by the December 2024 breach. Up to $5,000 with documented losses.",
+      "payout": "$60 flat",
+      "deadline": "2026-10-22",
+      "url": "https://fileyourclaim.co/open-class-action-settlements",
+      "keywords": ["lands end", "lands' end"],
+      "noProofRequired": true
+    }
+  ]
+}
