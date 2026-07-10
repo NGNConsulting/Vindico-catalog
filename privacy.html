@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vindico — Privacy Policy</title>
+<style>
+  :root {
+    --canvas:#F9F9F8; --surface:#F1F1EF; --obsidian:#111111;
+    --gold:#C5A059; --ink-soft:#6B6A66; --ink-faint:#9A9892; --hairline:#e4e4e1;
+  }
+  * { box-sizing:border-box; }
+  body {
+    margin:0; background:var(--canvas); color:var(--obsidian);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.6; -webkit-font-smoothing:antialiased;
+  }
+  .wrap { max-width:720px; margin:0 auto; padding:56px 24px 96px; }
+  .eyebrow {
+    font-size:11px; letter-spacing:2.5px; text-transform:uppercase;
+    color:var(--ink-faint); margin:0 0 14px;
+  }
+  h1 {
+    font-family:Georgia,"Times New Roman",serif; font-weight:500;
+    font-size:38px; line-height:1.1; letter-spacing:-.5px; margin:0 0 8px;
+  }
+  .updated { color:var(--ink-faint); font-size:14px; margin:0 0 28px; }
+  .lede {
+    background:var(--surface); border:1px solid var(--hairline);
+    border-radius:16px; padding:20px 22px; margin:0 0 40px; color:var(--ink-soft);
+  }
+  .lede strong { color:var(--obsidian); }
+  h2 {
+    font-family:Georgia,"Times New Roman",serif; font-weight:500;
+    font-size:22px; letter-spacing:-.3px; margin:40px 0 10px;
+    padding-top:24px; border-top:1px solid var(--hairline);
+  }
+  h2:first-of-type { border-top:none; padding-top:0; }
+  p { margin:0 0 14px; color:var(--ink-soft); }
+  ul { margin:0 0 14px; padding-left:20px; color:var(--ink-soft); }
+  li { margin:0 0 7px; }
+  strong { color:var(--obsidian); }
+  .pill {
+    display:inline-block; font-size:11px; letter-spacing:1.5px;
+    text-transform:uppercase; color:var(--gold);
+    border:1px solid rgba(197,160,89,.4); border-radius:100px;
+    padding:3px 10px; margin-bottom:24px;
+  }
+  a { color:var(--gold); }
+  footer {
+    margin-top:56px; padding-top:24px; border-top:1px solid var(--hairline);
+    color:var(--ink-faint); font-size:13px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="eyebrow">Vindico — NGN Consulting Corp</p>
+  <h1>Privacy Policy</h1>
+  <p class="updated">Last updated: July 10, 2026</p>
+
+  <div class="lede">
+    <span class="pill">On-device by design</span>
+    <p style="margin:0;">
+      Vindico is built to keep your information <strong>on your phone</strong>.
+      We do not run servers that receive your personal data, there are no user
+      accounts, and we do not sell, share, rent, or transmit your information.
+      The details below explain exactly what the app does and does not do.
+    </p>
+  </div>
+
+  <h2>1. Information we do not collect</h2>
+  <ul>
+    <li>No account, sign-up, email, or login is required to use Vindico.</li>
+    <li>No analytics, advertising, tracking, or device fingerprinting.</li>
+    <li>We do not collect your name, contacts, location, or app-usage data.</li>
+    <li>We never receive your claims, receipts, credentials, or purchases.</li>
+  </ul>
+
+  <h2>2. Information stored on your device</h2>
+  <p>
+    Everything you add to Vindico is stored in an <strong>encrypted database on
+    your phone</strong> (SQLCipher, AES-256, with the key held in your device's
+    hardware-backed keystore). This can include:
+  </p>
+  <ul>
+    <li>Claims you scan or track — case names, claimant IDs, PINs, filing deadlines, and payouts.</li>
+    <li>Purchases captured from receipts you scan.</li>
+    <li>Recall and settlement records used for matching.</li>
+  </ul>
+  <p>
+    This data sits behind your device biometric or PIN app-lock and is excluded
+    from cloud backup and device-to-device transfer. It never leaves your phone.
+  </p>
+
+  <h2>3. Camera and document scanning</h2>
+  <p>
+    When you scan a receipt or a paper notice, the camera and text recognition
+    run <strong>entirely on your device</strong> using Google's ML Kit (part of
+    Google Play services). Images are processed locally to read the text on the
+    page. The app does not upload your photos to us or to any third party, and
+    does not retain the images after processing.
+  </p>
+
+  <h2>4. Network activity</h2>
+  <p>
+    Vindico makes only <strong>outbound, download-only</strong> requests to fetch
+    public information:
+  </p>
+  <ul>
+    <li>Product-recall data from the public CPSC, FDA, and NHTSA APIs.</li>
+    <li>The open-settlements catalogue from our hosted public file.</li>
+  </ul>
+  <p>
+    These requests <strong>download</strong> public data to your phone. They do
+    not include your claims, purchases, credentials, or any personal data. The
+    matching of that public data against your purchases happens locally on your
+    device.
+  </p>
+
+  <h2>5. Permissions</h2>
+  <ul>
+    <li><strong>Internet</strong> — to download recall and settlement data.</li>
+    <li><strong>Biometric</strong> — to lock the app to you.</li>
+    <li><strong>Receive boot completed</strong> — to reschedule the background recall check after your phone restarts.</li>
+  </ul>
+  <p>
+    Vindico does not request the camera permission itself; scanning is handled by
+    the Google Play services document scanner.
+  </p>
+
+  <h2>6. Third-party services</h2>
+  <ul>
+    <li>
+      <strong>Google Play services / ML Kit</strong> — provides on-device
+      document scanning and text recognition. Governed by
+      <a href="https://policies.google.com/privacy">Google's Privacy Policy</a>.
+    </li>
+    <li>
+      <strong>GitHub Pages</strong> — hosts the public settlements catalogue file
+      that the app downloads. As with any web host, GitHub may log standard
+      request metadata (such as IP address) when serving the file; we do not
+      receive or store this information.
+    </li>
+  </ul>
+
+  <h2>7. Data sharing and sale</h2>
+  <p>
+    We do not sell, rent, or share your information. There is nothing to share —
+    your data never leaves your device.
+  </p>
+
+  <h2>8. Children's privacy</h2>
+  <p>
+    Vindico is not directed to children under 13 and does not knowingly collect
+    data from anyone.
+  </p>
+
+  <h2>9. Data retention and deletion</h2>
+  <p>
+    Your data lives only on your device. You can delete individual claims inside
+    the app, or remove everything by uninstalling Vindico or clearing its data in
+    your Android settings. Because we hold none of your data, there is nothing for
+    us to delete on our end.
+  </p>
+
+  <h2>10. Changes to this policy</h2>
+  <p>
+    We may update this policy from time to time. Any changes will be posted at
+    this page with a revised "last updated" date.
+  </p>
+
+  <h2>11. Contact</h2>
+  <p>
+    Questions about this policy or your privacy can be sent to:<br>
+    <strong>NGN Consulting Corp</strong><br>
+    <a href="mailto:i.nockov@gmail.com">i.nockov@gmail.com</a>
+  </p>
+
+  <footer>
+    © 2026 NGN Consulting Corp. Vindico keeps your claims on your device.
+  </footer>
+</div>
+</body>
+</html>
