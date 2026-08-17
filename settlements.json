@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-10",
+  "updated": "2026-08-17",
   "settlements": [
     {
       "id": "cosequin-joint-2026",
@@ -9,7 +9,9 @@
       "payout": "Up to $150/household",
       "deadline": "2026-07-21",
       "url": "https://classactionbuddy.com/settlements/",
-      "keywords": ["cosequin"],
+      "keywords": [
+        "cosequin"
+      ],
       "noProofRequired": true
     },
     {
@@ -19,7 +21,10 @@
       "payout": "Up to $20/household",
       "deadline": "2026-08-07",
       "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-83m-nutricost-magnesium-glycinate-class-action-settlement/",
-      "keywords": ["nutricost", "magnesium glycinate"],
+      "keywords": [
+        "nutricost",
+        "magnesium glycinate"
+      ],
       "noProofRequired": true
     },
     {
@@ -49,7 +54,9 @@
       "payout": "$10 store credit",
       "deadline": "2026-08-27",
       "url": "https://openclassactions.com/settlements/fanatics-handling-fee-class-action-settlement.php",
-      "keywords": ["fanatics"],
+      "keywords": [
+        "fanatics"
+      ],
       "noProofRequired": true
     },
     {
@@ -69,7 +76,9 @@
       "payout": "About $50",
       "deadline": "2026-09-03",
       "url": "https://classactionbuddy.com/settlements/circle-k-data-breach-class-action-settlement-50-cash-no-proof/",
-      "keywords": ["circle k"],
+      "keywords": [
+        "circle k"
+      ],
       "noProofRequired": true
     },
     {
@@ -79,7 +88,10 @@
       "payout": "About $50/household",
       "deadline": "2026-09-08",
       "url": "https://classactionbuddy.com/settlements/",
-      "keywords": ["youtube tv", "directv"],
+      "keywords": [
+        "youtube tv",
+        "directv"
+      ],
       "noProofRequired": true
     },
     {
@@ -89,7 +101,9 @@
       "payout": "Pro-rata cash",
       "deadline": "2026-09-10",
       "url": "https://fileyourclaim.co/open-class-action-settlements",
-      "keywords": ["stiiizy"],
+      "keywords": [
+        "stiiizy"
+      ],
       "noProofRequired": true
     },
     {
@@ -119,8 +133,211 @@
       "payout": "$60 flat",
       "deadline": "2026-10-22",
       "url": "https://fileyourclaim.co/open-class-action-settlements",
-      "keywords": ["lands end", "lands' end"],
+      "keywords": [
+        "lands end",
+        "lands' end"
+      ],
       "noProofRequired": true
+    },
+    {
+      "id": "apollomd-data-breach-2026",
+      "name": "ApolloMD data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-02m-apollomd-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "o-reilly-automotive-spam-text-messages-2026",
+      "name": "O’Reilly Automotive spam text messages",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/18-8m-oreilly-automotive-spam-text-messages-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "atrium-health-data-privacy-2026",
+      "name": "Atrium Health data privacy",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-1m-atrium-health-data-privacy-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "tesla-idle-fees-2026",
+      "name": "Tesla idle fees",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/tesla-idle-fees-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "700credit-data-breach-2026",
+      "name": "700Credit data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "$2,500",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/17-5m-700credit-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "central-transport-sex-discrimination-settlement-2026",
+      "name": "Central Transport sex discrimination settlement",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-5m-central-transport-sex-discrimination-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "nar-real-estate-commission-2026",
+      "name": "NAR real estate commission",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/120m-nar-real-estate-commission-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "travelers-insurance-new-mexico-uim-coverage-2026",
+      "name": "Travelers Insurance New Mexico UIM coverage",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/travelers-insurance-new-mexico-uim-coverage-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "night-us-brooklyn-bedding-2026",
+      "name": "Night US Brooklyn Bedding",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-16m-night-us-brooklyn-bedding-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "chantix-nitrosamine-2026",
+      "name": "Chantix nitrosamine",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/44m-chantix-nitrosamine-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "farmers-insurance-tcpa-2026",
+      "name": "Farmers Insurance TCPA",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-25m-farmers-insurance-tcpa-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "youtube-tv-automatic-renewal-2026",
+      "name": "YouTube TV automatic renewal",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/7-5m-youtube-tv-automatic-renewal-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "payactiv-data-breach-2026",
+      "name": "Payactiv data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/payactiv-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "zoll-medical-corp-data-breach-2026",
+      "name": "ZOLL Medical Corp. data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-5m-zoll-medical-corp-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "oppenheimer-co-abdp-cash-sweep-2026",
+      "name": "Oppenheimer & Co. ABDP cash sweep",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/70m-oppenheimer-co-abdp-cash-sweep-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "hartford-premium-tax-charges-2026",
+      "name": "Hartford premium tax charges",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/11m-hartford-premium-tax-charges-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "realpage-antitrust-2026",
+      "name": "RealPage antitrust",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/359-9m-realpage-antitrust-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "costco-sales-emails-2026",
+      "name": "Costco sales emails",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/14m-costco-sales-emails-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "iq-credit-union-overdraft-fees-2026",
+      "name": "iQ Credit Union overdraft fees",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/750000-iq-credit-union-overdraft-fees-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "strides-testosterone-gel-2026",
+      "name": "Strides testosterone gel",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/750k-strides-testosterone-gel-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
     }
   ]
 }
