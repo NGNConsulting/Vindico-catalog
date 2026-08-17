@@ -162,9 +162,9 @@
     {
       "id": "tesla-idle-fees-2026",
       "name": "Tesla idle fees",
-      "eligibility": "The Tesla settlement benefits California residents who received a Tesla vehicle before Dec. 16, 2016, and continued to own the vehicle after Dec. 16, 2016, and who were citizens of California as of June 21, 2021. The settlement includes three subclasses of consumers who purchased a vehicle described in Tesla’s Motor Vehicle Purchase Agreement as “Supercharger Enabled,” “Supercharger Hardware” or “Supercharger Hardware and Access” before Dec. 16, 2016.",
+      "eligibility": "Purchased a Tesla vehicle described in Tesla's Motor Vehicle Purchase Agreement as “Supercharger Enabled,” “Supercharger Hardware,” or “Supercharger Hardware & Access” before December 16, 2016.",
       "payout": "up to $350",
-      "deadline": "REVIEW",
+      "deadline": "2026-09-25",
       "url": "https://teslaidlefeeclassaction.com/form/claim",
       "keywords": [],
       "noProofRequired": false
