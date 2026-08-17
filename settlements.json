@@ -1,4 +1,33 @@
-  {
+{
+  "version": 1,
+  "updated": "2026-08-16",
+  "settlements": [
+    {
+      "id": "cosequin-joint-2026",
+      "name": "Cosequin Dog Joint Supplement",
+      "eligibility": "Bought Cosequin joint supplements for your dog.",
+      "payout": "Up to $150/household",
+      "deadline": "2026-07-21",
+      "url": "https://classactionbuddy.com/settlements/",
+      "keywords": [
+        "cosequin"
+      ],
+      "noProofRequired": true
+    },
+    {
+      "id": "nutricost-magnesium-2026",
+      "name": "Nutricost Magnesium Glycinate Mislabelling",
+      "eligibility": "Bought Nutricost Magnesium Glycinate supplements.",
+      "payout": "Up to $20/household",
+      "deadline": "2026-08-07",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-83m-nutricost-magnesium-glycinate-class-action-settlement/",
+      "keywords": [
+        "nutricost",
+        "magnesium glycinate"
+      ],
+      "noProofRequired": true
+    },
+    {
       "id": "google-assistant-privacy-2026",
       "name": "Google Assistant Privacy",
       "eligibility": "Owned a Google Assistant device that recorded without the hotword.",
@@ -105,7 +134,7 @@
       "name": "ApolloMD data breach",
       "eligibility": "Affected by the 2025 breach",
       "payout": "pro-rata",
-      "deadline": "08/31/2026",
+      "deadline": "2026-08-31",
       "url": "https://apollomddatasettlement.com/",
       "keywords": [],
       "noProofRequired": false
@@ -115,7 +144,7 @@
       "name": "O’Reilly Automotive spam text messages",
       "eligibility": "The class action settlement benefits consumers in the United States whose telephone numbers were registered on the National Do Not Call Registry for at least 30 days and who received more than one text message from or on behalf of O’Reilly Automotive within a 12-month period after the telephone number was reassigned to them.",
       "payout": "$22",
-      "deadline": "09/28/2026",
+      "deadline": "2026-09-28",
       "url": "https://forms.ksacms.com/efiling/fr/eform/bryanvoreily_claimform/new?form-version=1&fr-wizard-page=section-1",
       "keywords": [],
       "noProofRequired": true
@@ -125,7 +154,7 @@
       "name": "Atrium Health data privacy",
       "eligibility": "The class action settlement benefits individuals who had a MyAtriumHealth or MyCarolinas patient portal account between Jan. 1, 2015, and April 10, 2024.",
       "payout": "Varies",
-      "deadline": "09/28/2026",
+      "deadline": "2026-09-28",
       "url": "https://forms.ksacms.com/efiling/fr/eform/AtriumHealthPixelSettlement_claimform/new?form-version=1&fr-wizard-page=section-1",
       "keywords": [],
       "noProofRequired": true
@@ -145,7 +174,7 @@
       "name": "700Credit data breach",
       "eligibility": "The class action settlement benefits individuals who received a data breach notice from 700Credit informing them that their private information may have been compromised in a data breach on Oct. 25, 2025.",
       "payout": "$up to 2,500",
-      "deadline": "09/22/2026",
+      "deadline": "2026-09-22",
       "url": "https://700creditdatabreachsettlement.com/Login",
       "keywords": [],
       "noProofRequired": false
@@ -155,7 +184,7 @@
       "name": "Central Transport sex discrimination settlement",
       "eligibility": "The Central Transport settlement benefits women who sought employment as a truck driver with Central Transport by submitting a paper or electronic application at any terminal or facility nationwide from Jan. 1, 2016, to the present, who held a Class A commercial driver’s license at the time of their application, and who were denied employment as a truck driver by Central Transport at least once during that period.",
       "payout": "Varies",
-      "deadline": "09/14/2026",
+      "deadline": "2026-09-14",
       "url": "https://eeoccentraltransport.claims-administrator.com/",
       "keywords": [],
       "noProofRequired": false
@@ -165,7 +194,7 @@
       "name": "NAR real estate commission",
       "eligibility": "The class action settlement benefits consumers who purchased a home that was listed on a multiple listing service where a commission was paid to any brokerage in connection with the transaction during the class periods.",
       "payout": "Varies",
-      "deadline": "10/27/2026",
+      "deadline": "2026-10-27",
       "url": "https://homebuyersettlement.com/en/Claim",
       "keywords": [],
       "noProofRequired": false
@@ -175,7 +204,7 @@
       "name": "Travelers Insurance New Mexico UIM coverage",
       "eligibility": "The Travelers Insurance settlement benefits New Mexico policyholders who had UIM coverage with Travelers Insurance between Jan. 1, 2015, and Aug. 16, 2022.",
       "payout": "Varies",
-      "deadline": "09/27/2026",
+      "deadline": "2026-09-27",
       "url": "https://www.aguilaruimclasssettlement.com/Login",
       "keywords": [],
       "noProofRequired": false
@@ -185,7 +214,7 @@
       "name": "Night US Brooklyn Bedding",
       "eligibility": "The class action settlement benefits consumers who, while physically in California or as residents of California, purchased one or more mattresses advertised at a discount from leesa.com between July 28, 2019, and March 11, 2024; brooklynbedding.com between Sept. 5, 2020, and March 31, 2024; helixsleep.com between Oct. 2, 2020, and March 31, 2024; or bearmattress.com between June 4, 2021, and April 1, 2024.",
       "payout": "$110 in cash",
-      "deadline": "09/25/2026",
+      "deadline": "2026-09-25",
       "url": "https://nightbbsettlement.com/submit-claim",
       "keywords": [],
       "noProofRequired": false
@@ -195,7 +224,7 @@
       "name": "Chantix nitrosamine",
       "eligibility": "The class action settlement benefits consumers and third-party payors who paid any amount of money for retail purchases of Chantix in the United States and its territories from Sept. 29, 2015, through Sept. 17, 2021.",
       "payout": "Varies",
-      "deadline": "09/14/2026",
+      "deadline": "2026-09-14",
       "url": "https://chantixsettlement.com/file-a-claim/",
       "keywords": [],
       "noProofRequired": false
@@ -205,7 +234,7 @@
       "name": "Farmers Insurance TCPA",
       "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
       "payout": "$160",
-      "deadline": "09/14/2026",
+      "deadline": "2026-09-14",
       "url": "https://www.heckathorntcpasettlement.com/heckathorn-v-farmers-claim-form-login/",
       "keywords": [],
       "noProofRequired": true
@@ -215,7 +244,7 @@
       "name": "YouTube TV automatic renewal",
       "eligibility": "The class action settlement benefits California residents who, between Feb. 1, 2017, and Oct. 29, 2021, enrolled in and paid for at least one renewal term of a YouTube TV subscription purchased via YouTube billing for personal, family or household purposes, excluding those who enrolled in YouTube TV through iOS-based mobile applications from Apple’s App Store, YouTube TV subscriptions that were canceled during a free trial and YouTube TV subscriptions that were fully refunded by the defendants.",
       "payout": "Estimated $92.26",
-      "deadline": "08/30/2026",
+      "deadline": "2026-08-30",
       "url": "https://www.youtubetvsettlement.com/form/claim",
       "keywords": [],
       "noProofRequired": true
@@ -225,7 +254,7 @@
       "name": "Payactiv data breach",
       "eligibility": "The Payactiv settlement benefits individuals who received a data breach notification from Payactiv informing them that their information may have been compromised in a data incident in April 2025.",
       "payout": "Up to $2,500",
-      "deadline": "09/12/2026",
+      "deadline": "2026-09-12",
       "url": "https://payactivdataincidentsettlement.com/form/claim",
       "keywords": [],
       "noProofRequired": false
@@ -235,7 +264,7 @@
       "name": "ZOLL Medical Corp. data breach",
       "eligibility": "The ZOLL Medical settlement benefits consumers who received a data breach notice from ZOLL Medical Corp. informing them that their information may have been compromised in a January 2023 data security incident.",
       "payout": "pro rata payment of $50 to $100",
-      "deadline": "09/02/2026",
+      "deadline": "2026-09-02",
       "url": "https://heartdevicedatasettlement.pnclassaction.com/",
       "keywords": [],
       "noProofRequired": true
@@ -245,7 +274,7 @@
       "name": "Oppenheimer & Co. ABDP cash sweep",
       "eligibility": "The class action settlement benefits Oppenheimer and Oppenheimer Asset Management customers who participated in the Advantage Bank Deposit Program from March 17, 2022, through May 22, 2026.",
       "payout": "Varies",
-      "deadline": "09/17/2026",
+      "deadline": "2026-09-17",
       "url": "https://veritaconnect.com/OppenheimerCashSweepLitigation/Claimant",
       "keywords": [],
       "noProofRequired": false
@@ -255,7 +284,7 @@
       "name": "Hartford premium tax charges",
       "eligibility": "The class action settlement benefits individuals who own or owned a universal or variable universal life insurance policy issued by Talcott Resolution Life & Annuity Insurance or Talcott Resolution Life Insurance with policy terms stating the premium tax charge depends on the policyholder’s state or municipality of residence.",
       "payout": "Varies",
-      "deadline": "08/26/2026",
+      "deadline": "2026-08-26",
       "url": "https://www.premiumtaxsettlement.com/",
       "keywords": [],
       "noProofRequired": false
@@ -265,7 +294,7 @@
       "name": "RealPage antitrust",
       "eligibility": "The RealPage class action settlement benefits consumers who paid rent on at least one multifamily residential real estate lease directly to any owner, manager or owner-operator on a property subject to a license for RealPage’s Revenue Management Solutions between Oct. 18, 2018, and Nov. 21, 2025.",
       "payout": "Varies",
-      "deadline": "01/29/2027",
+      "deadline": "2027-01-29",
       "url": "https://realpagerentalsettlement.com/",
       "keywords": [],
       "noProofRequired": false
@@ -275,7 +304,7 @@
       "name": "Costco sales emails",
       "eligibility": "The Costco settlement benefits individuals who received a commercial email message from Costco between June 2, 2021, and July 7, 2026, who were Washington residents at the time of receipt.",
       "payout": "Varies",
-      "deadline": "08/24/2026",
+      "deadline": "2026-08-24",
       "url": "https://veritaconnect.com/washingtoncommercialemailsettlement/Claimant",
       "keywords": [],
       "noProofRequired": false
@@ -285,7 +314,7 @@
       "name": "iQ Credit Union overdraft fees",
       "eligibility": "The class action settlement benefits consumers who were charged an APSN fee or retry fee by iQ Credit Union between Dec. 12, 2018, and July 31, 2023.",
       "payout": "Varies",
-      "deadline": "08/19/2026",
+      "deadline": "2026-08-19",
       "url": "https://www.thompsonfeessettlement.com/",
       "keywords": [],
       "noProofRequired": false
@@ -295,7 +324,7 @@
       "name": "Strides testosterone gel",
       "eligibility": "The class action settlement benefits consumers who purchased Strides testosterone gel between June 1, 2022, and July 31, 2025.",
       "payout": "Varies",
-      "deadline": "09/16/2026",
+      "deadline": "2026-09-16",
       "url": "https://stridesgelsettlement.com/",
       "keywords": [],
       "noProofRequired": false
