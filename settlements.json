@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-16",
+  "updated": "2026-08-24",
   "settlements": [
     {
       "id": "cosequin-joint-2026",
@@ -326,6 +326,206 @@
       "payout": "Varies",
       "deadline": "2026-09-16",
       "url": "https://stridesgelsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "anthem-denied-benefits-2026",
+      "name": "Anthem denied benefits",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-6m-anthem-denied-benefits-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "the-money-source-robocalls-2026",
+      "name": "The Money Source robocalls",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-5m-the-money-source-robocalls-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "ernst-young-bank-of-america-moveit-data-breach-2026",
+      "name": "Ernst & Young, Bank of America MOVEit data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-ernst-young-bank-of-america-moveit-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "volkswagen-atlas-water-pump-2026",
+      "name": "Volkswagen Atlas water pump",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/volkswagen-atlas-water-pump-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "total-vision-data-breach-2026",
+      "name": "Total Vision data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/475k-total-vision-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "healthcare-services-group-data-breach-2026",
+      "name": "Healthcare Services Group data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3m-healthcare-services-group-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "usaa-michigan-auto-insurance-2026",
+      "name": "USAA Michigan auto insurance",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/647000-usaa-michigan-auto-insurance-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "pierce-county-library-system-data-breach-2026",
+      "name": "Pierce County Library System data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/385000-pierce-county-library-system-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "lifestance-health-group-website-tracking-2026",
+      "name": "LifeStance Health Group website tracking",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-02m-lifestance-health-group-website-tracking-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "mount-sinai-medical-center-data-breach-2026",
+      "name": "Mount Sinai Medical Center data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/220000-mount-sinai-medical-center-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "guitar-center-wage-and-hour-violations-2026",
+      "name": "Guitar Center wage and hour violations",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-4m-guitar-center-wage-and-hour-violations-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "aidvantage-tcpa-2026",
+      "name": "Aidvantage TCPA",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3m-aidvantage-tcpa-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "equifax-credit-reporting-2026",
+      "name": "Equifax credit reporting",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-2m-equifax-credit-reporting-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "serviceaide-data-breach-2026",
+      "name": "Serviceaide data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-8m-serviceaide-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "fiton-video-privacy-2026",
+      "name": "FitOn video privacy",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-fiton-video-privacy-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "disney-antitrust-2026",
+      "name": "Disney antitrust",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/50m-disney-antitrust-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "las-vegas-grand-prix-tickets-2026",
+      "name": "Las Vegas Grand Prix tickets",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-04m-las-vegas-grand-prix-tickets-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "call-on-doc-tracking-pixels-2026",
+      "name": "Call-On-Doc tracking pixels",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-8m-call-on-doc-tracking-pixels-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "new-york-renaissance-faire-hidden-fees-2026",
+      "name": "New York Renaissance Faire hidden fees",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-9m-new-york-renaissance-faire-hidden-fees-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "flo-period-tracker-2026",
+      "name": "Flo period tracker",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/59-5m-flo-data-sharing-class-action-settlement/",
       "keywords": [],
       "noProofRequired": false
     }
