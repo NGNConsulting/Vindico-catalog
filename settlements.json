@@ -302,7 +302,7 @@
       "deadline": "10/07/2026",
       "url": "MoneySourceTCPAClassAction.com",
       "keywords": [],
-      "noProofRequired": True
+      "noProofRequired": true
     },
     {
       "id": "ernst-young-bank-of-america-moveit-data-breach-2026",
@@ -367,9 +367,7 @@
     {
       "id": "lifestance-health-group-website-tracking-2026",
       "name": "LifeStance Health Group website tracking",
-      "eligibility": "Subclass 1: LifeStance members who booked at least one session through LifeStance’s online booking tool, accessed through LifeStance’s public website lifestance.com, between March 1, 2020, and April 30, 2023.
-
-Subclass 2: All other members of LifeStance’s total patient population between March 1, 2020, and April 30, 2023, not including those in Subclass 1.",
+      "eligibility": "Subclass 1: LifeStance members who booked at least one session through LifeStance’s online booking tool, accessed through LifeStance’s public website lifestance.com, between March 1, 2020, and April 30, 2023. Subclass 2: All other members of LifeStance’s total patient population between March 1, 2020, and April 30, 2023, not including those in Subclass 1.",
       "payout": "Varies",
       "deadline": "09/29/2026",
       "url": "LifeStancePixelSettlement.com",
@@ -389,9 +387,7 @@ Subclass 2: All other members of LifeStance’s total patient population between
     {
       "id": "guitar-center-wage-and-hour-violations-2026",
       "name": "Guitar Center wage and hour violations",
-      "eligibility": "The settlement benefits non-exempt Guitar Center employees who worked for the company between Jan. 11, 2020, and July 11, 2025.
-
-The PAGA portion of the settlement benefits non-exempt Guitar Center employees who worked for the company between Jan. 11, 2022, and July 11, 2025.",
+      "eligibility": "The settlement benefits non-exempt Guitar Center employees who worked for the company between Jan. 11, 2020, and July 11, 2025. The PAGA portion of the settlement benefits non-exempt Guitar Center employees who worked for the company between Jan. 11, 2022, and July 11, 2025.",
       "payout": "Varies",
       "deadline": "09/01/2026",
       "url": "CAEmployeeSettlementGuitarCenter.com",
@@ -431,9 +427,7 @@ The PAGA portion of the settlement benefits non-exempt Guitar Center employees w
     {
       "id": "disney-antitrust-2026",
       "name": "Disney antitrust",
-      "eligibility": "YouTube TV class: Anyone who purchased a YouTube TV subscription from April 1, 2019, through March 31, 2026.
-
-DirecTV Stream class: Anyone who purchased a DirecTV streaming live pay TV subscription from April 1, 2019, through March 31, 2026. This includes DirecTV Stream, DirecTV Now and AT&T TV Now subscriptions.",
+      "eligibility": "YouTube TV class: Anyone who purchased a YouTube TV subscription from April 1, 2019, through March 31, 2026. DirecTV Stream class: Anyone who purchased a DirecTV streaming live pay TV subscription from April 1, 2019, through March 31, 2026. This includes DirecTV Stream, DirecTV Now and AT&T TV Now subscriptions.",
       "payout": "Varies",
       "deadline": "09/08/2026",
       "url": "OnlineTVSettlement.com",
@@ -463,9 +457,7 @@ DirecTV Stream class: Anyone who purchased a DirecTV streaming live pay TV subsc
     {
       "id": "flo-period-tracker-2026",
       "name": "Flo period tracker",
-      "eligibility": "You are a member of the nationwide class if you used the Flo app in the United States between Nov. 1, 2016, and Feb. 28, 2019, and you entered menstruation and/or pregnancy information into the Flo app during that time.
-
-You are a member of the California subclass if you used the Flo app in California between Nov. 1, 2016, and Feb. 28, 2019, you entered menstruation and/or pregnancy information into the Flo app during that time and you resided in California during that time.",
+      "eligibility": "You are a member of the nationwide class if you used the Flo app in the United States between Nov. 1, 2016, and Feb. 28, 2019, and you entered menstruation and/or pregnancy information into the Flo app during that time. You are a member of the California subclass if you used the Flo app in California between Nov. 1, 2016, and Feb. 28, 2019, you entered menstruation and/or pregnancy information into the Flo app during that time and you resided in California during that time.",
       "payout": "Varies",
       "deadline": "10/15/2026",
       "url": "PeriodTrackerDataPrivacyLitigation.com",
