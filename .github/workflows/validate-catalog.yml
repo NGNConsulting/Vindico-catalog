@@ -1,0 +1,37 @@
+# CI gate for pull requests that touch settlements.json — including the
+# weekly scraper's own "catalog/candidates" PR.
+#
+# This does NOT replace human review of the REVIEW placeholders (see
+# update-catalog.yml's PR body checklist) — it can't verify a settlement is
+# real or that a payout figure is accurate. It only catches what a reviewer
+# could plausibly miss skimming a 20-entry diff: a leftover REVIEW
+# placeholder, a malformed date, a duplicate id/url, a wrong field type, or a
+# URL scheme the app's own SafeUrl.kt would refuse to open at launch time.
+#
+# Runs on `pull_request` (not `pull_request_target`) since it only reads the
+# file and needs no repo secrets — safe for PRs from any source, including
+# the bot's own branch.
+
+name: Validate settlements catalogue
+
+on:
+  pull_request:
+    paths:
+      - "settlements.json"
+      - "scripts/validate_catalog.py"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Validate settlements.json
+        run: python scripts/validate_catalog.py
