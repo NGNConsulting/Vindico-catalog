@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24",
+  "updated": "2026-09-07",
   "settlements": [
     {
       "id": "google-assistant-privacy-2026",
@@ -461,6 +461,206 @@
       "payout": "Varies",
       "deadline": "2026-10-15",
       "url": "PeriodTrackerDataPrivacyLitigation.com",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "transamerica-life-insurance-2026",
+      "name": "Transamerica Life Insurance",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/110m-transamerica-life-insurance-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "bestway-above-ground-pool-safety-2026",
+      "name": "Bestway above-ground pool safety",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-bestway-above-ground-pool-safety-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "bell-howell-pfas-cookware-2026",
+      "name": "Bell & Howell PFAS cookware",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/bell-howell-pfas-cookware-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "penn-medicine-pixel-tracking-2026",
+      "name": "Penn Medicine pixel tracking",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-25m-penn-medicine-pixel-tracking-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "northrop-grumman-soil-contamination-2026",
+      "name": "Northrop Grumman soil contamination",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/75m-northrop-grumman-soil-contamination-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "sportsman-s-guide-data-privacy-2026",
+      "name": "Sportsman’s Guide data privacy",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-01m-sportsmans-guide-data-privacy-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "crst-expedited-minimum-wage-2026",
+      "name": "CRST Expedited minimum wage",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/14-5m-crst-expedited-minimum-wage-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "cone-health-pixel-tracking-2026",
+      "name": "Cone Health pixel tracking",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-76m-cone-health-pixel-tracking-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "palm-beach-tan-tcpa-2026",
+      "name": "Palm Beach Tan TCPA",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-5m-palm-beach-tan-tcpa-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "san-diego-water-rates-2026",
+      "name": "San Diego water rates",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/40m-san-diego-water-rates-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "new-york-city-central-booking-2026",
+      "name": "New York City Central Booking",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/21-5m-new-york-city-central-booking-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "american-consumer-credit-counseling-data-breach-2026",
+      "name": "American Consumer Credit Counseling data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/american-consumer-credit-counseling-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "hirevue-illinois-bipa-2026",
+      "name": "HireVue Illinois BIPA",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-75m-hirevue-illinois-bipa-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "equinox-data-breach-2026",
+      "name": "Equinox data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/685000-equinox-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "state-farm-louisiana-car-insurance-total-loss-2026",
+      "name": "State Farm Louisiana car insurance total loss",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/state-farm-louisiana-car-insurance-total-loss-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "zale-delaware-and-sterling-jewelers-job-posting-2026",
+      "name": "Zale Delaware and Sterling Jewelers job posting",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-61m-zale-delaware-and-sterling-jewelers-job-posting-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "crossroads-trading-data-breach-2026",
+      "name": "Crossroads Trading data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/600k-crossroads-trading-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "allina-health-system-pixel-tracking-2026",
+      "name": "Allina Health System pixel tracking",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/12-5m-allina-health-system-pixel-tracking-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "lemonade-insurance-data-breach-2026",
+      "name": "Lemonade Insurance data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/10-5m-lemonade-insurance-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "google-play-children-s-privacy-2026",
+      "name": "Google Play children’s privacy",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-25m-google-play-childrens-privacy-class-action-settlement/",
       "keywords": [],
       "noProofRequired": false
     }
