@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-24",
+  "updated": "2026-09-28",
   "settlements": [
     {
       "id": "google-assistant-privacy-2026",
@@ -461,6 +461,207 @@
       "payout": "Varies",
       "deadline": "2026-10-15",
       "url": "PeriodTrackerDataPrivacyLitigation.com",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "summit-medical-data-breach-2026",
+      "name": "Summit Medical data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/summit-medical-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "levoit-air-purifier-2026",
+      "name": "Levoit air purifier",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-levoit-air-purifier-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "american-vision-partners-data-breach-2026",
+      "name": "American Vision Partners data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-75m-american-vision-partners-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "forbes-media-website-tracking-2026",
+      "name": "Forbes Media website tracking",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/10m-forbes-media-website-tracking-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "navy-federal-credit-union-unauthorized-loans-2026",
+      "name": "Navy Federal Credit Union unauthorized loans",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/navy-federal-credit-union-unauthorized-loans-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "furniture-mart-usa-data-breach-2026",
+      "name": "Furniture Mart USA data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/furniture-mart-usa-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "modernizing-medicine-data-breach-2026",
+      "name": "Modernizing Medicine data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-99m-modernizing-medicine-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "amwell-livehealth-online-data-sharing-2026",
+      "name": "Amwell, LiveHealth Online data sharing",
+      "eligibility": "Consumers who used the appointment booking tool on the LiveHealth Online website, iOS app, or Android app between October 2024 and August 2025.",
+      "payout": "$51.14",
+      "deadline": "2026-10-30",
+      "url": "LiveHealthOnlineSettlement.com",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "university-of-hawaii-data-breach-2026",
+      "name": "University of Hawaii data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-5m-university-of-hawaii-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "connectoncall-data-breach-2026",
+      "name": "ConnectOnCall data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-95m-connectoncall-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "sandoz-and-fougera-antitrust-2026",
+      "name": "Sandoz and Fougera antitrust",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/275m-sandoz-and-fougera-antitrust-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "amn-healthcare-privacy-violations-2026",
+      "name": "AMN Healthcare privacy violations",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-5m-amn-healthcare-privacy-violations-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "fn-logistics-wage-and-hour-violations-2026",
+      "name": "FN Logistics wage and hour violations",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-56m-fn-logistics-wage-and-hour-violations-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "concora-credit-tcpa-2026",
+      "name": "Concora Credit TCPA",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-37m-concora-credit-tcpa-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "costa-del-mar-sunglasses-warranty-2026",
+      "name": "Costa Del Mar sunglasses warranty",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-095m-costa-del-mar-sunglasses-warranty-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "visa-mastercard-non-bank-atm-2026",
+      "name": "Visa, Mastercard non-bank ATM",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/167-5m-visa-mastercard-non-bank-atm-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "transunion-inaccurate-credit-report-2026",
+      "name": "TransUnion inaccurate credit report",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-31m-transunion-inaccurate-credit-report-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "pork-price-fixing-2026",
+      "name": "pork price-fixing",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/117m-pork-price-fixing-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "palomar-health-data-breach-2026",
+      "name": "Palomar Health data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-1m-palomar-health-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "lloyd-s-of-london-insurance-price-fixing-2026",
+      "name": "Lloyd’s of London insurance price-fixing",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-57m-lloyds-of-london-insurance-price-fixing-class-action-settlement/",
       "keywords": [],
       "noProofRequired": false
     }
