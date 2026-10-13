@@ -669,6 +669,186 @@
       "url": "https://summitmedicaldatasettlement.com/",
       "keywords": [],
       "noProofRequired": true
+    },
+    {
+      "id": "educational-computer-systems-data-breach-2026",
+      "name": "Educational Computer Systems (ECSI) data breach",
+      "eligibility": "Personal information affected by the Oct. 29, 2023 to Feb. 12, 2024 cyberattack on ECSI's website.",
+      "payout": "About $100 cash, or up to $5,000 documented losses",
+      "deadline": "2026-12-21",
+      "url": "https://www.datasettlementecsi.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "teleflora-do-not-call-registry-2026",
+      "name": "Teleflora Do Not Call texts",
+      "eligibility": "Got 2+ Teleflora promotional texts within 12 months (since May 9, 2021) on a cell or home number on the National Do Not Call Registry.",
+      "payout": "Up to $251 by check",
+      "deadline": "2026-11-17",
+      "url": "https://www.tfsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "levoit-air-purifier-2026",
+      "name": "Levoit air purifier HEPA claims",
+      "eligibility": "Bought a Levoit Core or EverestAir air purifier or replacement filter marked True HEPA, HEPA or H13 in the U.S. between Aug. 29, 2019 and Aug. 4, 2023.",
+      "payout": "$10 digital payment (may be reduced)",
+      "deadline": "2026-11-03",
+      "url": "https://lapsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "american-vision-partners-data-breach-2026",
+      "name": "American Vision Partners data breach",
+      "eligibility": "Damages class only (about 258,000 people): SSN and other personal data exposed in the 2023 American Vision Partners breach. Needs the Class Member ID from your notice.",
+      "payout": "Pro rata cash, or up to $3,000 documented losses",
+      "deadline": "2026-11-12",
+      "url": "https://www.americanvisionsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "forbes-media-website-tracking-2026",
+      "name": "Forbes website tracking (California)",
+      "eligibility": "California residents whose IP address or device ID was shared with third parties by trackers on Forbes sites between Dec. 20, 2023 and June 11, 2026.",
+      "payout": "Pro rata share of $10M fund (est. $32 to $189)",
+      "deadline": "2026-11-09",
+      "url": "https://www.mediasitetrackersettlement.com/",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "navy-federal-credit-union-unauthorized-loans-2026",
+      "name": "Navy Federal unauthorized loans",
+      "eligibility": "Navy Federal members whose personal loan was opened without their authorization (Jan. 2023 to Jan. 2025) and whose fraud dispute was denied.",
+      "payout": "Loan canceled and payments refunded automatically; extra $250 with a claim form",
+      "deadline": "2026-11-29",
+      "url": "https://www.nfculoansettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "furniture-mart-usa-data-breach-2026",
+      "name": "Furniture Mart USA data breach",
+      "eligibility": "Personal information compromised in the November 2024 Furniture Mart, USA data breach.",
+      "payout": "$75 cash (no proof), or up to $4,500 documented losses plus up to $100 lost time",
+      "deadline": "2026-11-03",
+      "url": "https://fmusadatabreachsettlement.com/",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "modernizing-medicine-data-breach-2026",
+      "name": "ModMed data breach",
+      "eligibility": "Sent notice that your information was affected in the July 2025 Modernizing Medicine (ModMed) data incident.",
+      "payout": "About $75 cash (no proof) or up to $5,000 documented losses",
+      "deadline": "2026-11-02",
+      "url": "https://modernizingmedicinedatasettlement.com/",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "amwell-livehealth-online-data-sharing-2026",
+      "name": "Amwell LiveHealth Online data sharing",
+      "eligibility": "Used the Appointment Booking Tool on LiveHealth Online's website or app between October 2024 and August 2025.",
+      "payout": "About $51 to $102 (equal shares of a $2.04M fund)",
+      "deadline": "2026-10-30",
+      "url": "https://www.livehealthonlinesettlement.com/",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "university-of-hawaii-data-breach-2026",
+      "name": "University of Hawai'i Cancer Center data breach",
+      "eligibility": "Notified that your information was compromised in the August 2025 University of Hawai'i Cancer Center data incident.",
+      "payout": "About $50 cash (no proof) or up to $5,000 documented losses",
+      "deadline": "2026-11-02",
+      "url": "https://uhdatasettlement.com/",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "connectoncall-data-breach-2026",
+      "name": "ConnectOnCall data incident",
+      "eligibility": "Private information may have been impacted in the Feb. 16 to May 12, 2024 ConnectOnCall platform data incident.",
+      "payout": "Up to $75 cash (no proof) or up to $5,000 documented losses",
+      "deadline": "2026-11-02",
+      "url": "https://www.connectoncallsettlement.com/",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "amn-healthcare-privacy-violations-2026",
+      "name": "AMN Healthcare interpretation recordings (California)",
+      "eligibility": "In California for a medical appointment or call using an AMN Healthcare interpreter that was monitored or recorded without consent (Dec. 4, 2022 to Aug. 7, 2026).",
+      "payout": "Pro rata cash share of $4.5M fund, up to $10,000",
+      "deadline": "2026-10-27",
+      "url": "https://www.amncipasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "concora-credit-tcpa-2026",
+      "name": "Concora Credit robocalls (TCPA)",
+      "eligibility": "Got a prerecorded or artificial-voice call from Concora Credit on a cell number not assigned to a Concora account holder (May 2, 2021 to May 31, 2026).",
+      "payout": "Estimated $250 to $650",
+      "deadline": "2026-10-19",
+      "url": "https://www.sealstcpasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "visa-mastercard-non-bank-atm-2026",
+      "name": "Visa and Mastercard non-bank ATM fees",
+      "eligibility": "Paid a surcharge using a debit card at an independent (non-bank) ATM in the U.S. between Oct. 24, 2007 and Aug. 14, 2026 and weren't fully reimbursed.",
+      "payout": "Pro rata cash share of $167.5M fund",
+      "deadline": "2027-02-10",
+      "url": "https://www.nonbankatmsurchargesettlement.com/",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "transunion-inaccurate-credit-report-2026",
+      "name": "TransUnion bankruptcy remarks",
+      "eligibility": "TransUnion report sold to a third party between Jan. 6, 2020 and Jan. 31, 2023 showed a bankruptcy remark with no matching public record.",
+      "payout": "$100 automatic or about $350 to $1,000 with a claim, by group",
+      "deadline": "2026-10-30",
+      "url": "https://brooksbankruptcyclassaction.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "pork-price-fixing-2026",
+      "name": "Pork price-fixing (retail purchases)",
+      "eligibility": "Bought raw bacon or fresh/frozen pork (belly, loin, shoulder, ribs, chops) at retail for personal use between June 28, 2014 and June 30, 2018 in a participating state.",
+      "payout": "Pro rata share of $117M fund; no receipts needed",
+      "deadline": "2026-10-29",
+      "url": "https://www.overchargedforpork.com/",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "palomar-health-data-breach-2026",
+      "name": "Palomar Health Medical Group data breach",
+      "eligibility": "Private information accessed in the Apr. 23 to May 5, 2024 Palomar Health Medical Group data incident.",
+      "payout": "About $60 cash or up to $5,000 documented losses",
+      "deadline": "2026-10-22",
+      "url": "https://www.phmgdatasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "lloyd-s-of-london-insurance-price-fixing-2026",
+      "name": "Lloyd's of London syndicates insurance",
+      "eligibility": "Bought or renewed insurance through Lloyd's syndicates 727, 1003, 2003, 2020 or 2791 between Jan. 1, 1997 and Apr. 15, 2025.",
+      "payout": "Pro rata share based on premium paid",
+      "deadline": "2026-10-30",
+      "url": "https://syndicatesettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
     }
   ]
 }
