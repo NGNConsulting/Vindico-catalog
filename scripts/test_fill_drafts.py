@@ -146,6 +146,51 @@ class ApplyDraft(unittest.TestCase):
         self.assertEqual(e["payout"], "REVIEW")           # still a REVIEW shell -> CI stays red
         self.assertNotIn("aiDrafted", e)
 
+    # The next three use the model's real output from the first live run (2026-10-13).
+    AMWELL_ELIG = ("People who used the Appointment Booking Tool on the LiveHealth Online website, "
+                   "iOS app or Android app between October 2024 and August 2025. The October "
+                   "2024-August 2025 class period comes from an aggregator listing. The official "
+                   "home page I read did not state it.")
+    FMUSA_PAYOUT = ("$75 alternative cash payment, or documented out-of-pocket losses (up to $4,500 "
+                    "per the aggregator listing) plus up to $100 for lost time, with identity "
+                    "protection services")
+    TELEFLORA_ELIG = ("People in the U.S. who did not give Teleflora LLC their phone number, and whose "
+                      "residential or cellular number had been on the National Do Not Call Registry for "
+                      "at least 30 days before Teleflora sent them at least two promotional texts within "
+                      "a 12-month period, between May 9, 2021 and the date of preliminary approval.")
+
+    def test_commentary_about_sources_is_rejected_not_written(self):
+        e = shell()
+        filled, note = fd.apply_draft(e, good(eligibility=self.AMWELL_ELIG), HOSTS, TODAY)
+        self.assertTrue(e["eligibility"].startswith("REVIEW:"))          # left for a human
+        self.assertNotIn("eligibility", filled)
+        self.assertIn("eligibility contains commentary", note)
+        self.assertIn("payout", filled)                                   # other fields still land
+
+    def test_aggregator_reference_in_payout_is_rejected(self):
+        e = shell()
+        filled, note = fd.apply_draft(e, good(payout=self.FMUSA_PAYOUT), HOSTS, TODAY)
+        self.assertEqual(e["payout"], "REVIEW")
+        self.assertIn("payout contains commentary", note)
+        self.assertIn("eligibility", filled)
+
+    def test_over_long_fields_are_rejected_never_truncated(self):
+        self.assertGreater(len(self.TELEFLORA_ELIG), fd.MAX_ELIGIBILITY)
+        e = shell()
+        filled, note = fd.apply_draft(e, good(eligibility=self.TELEFLORA_ELIG), HOSTS, TODAY)
+        self.assertTrue(e["eligibility"].startswith("REVIEW:"))
+        self.assertIn("too long", note)
+        e2 = shell()
+        fd.apply_draft(e2, good(payout="x" * (fd.MAX_PAYOUT + 1)), HOSTS, TODAY)
+        self.assertEqual(e2["payout"], "REVIEW")
+
+    def test_clean_field_accepts_normal_text_and_collapses_whitespace(self):
+        self.assertEqual(fd.clean_field("  $50 cash\n or up to $2,500 documented losses ", 120),
+                         ("$50 cash or up to $2,500 documented losses", None))
+        self.assertEqual(fd.clean_field("Bought X between 2020 and 2025.", 280),
+                         ("Bought X between 2020 and 2025.", None))
+        self.assertEqual(fd.clean_field(None, 120), (None, None))
+
     def test_not_claimable_needs_high_confidence(self):
         e = shell()
         self.assertEqual(fd.apply_draft(e, good(claimable=False, confidence="low"), HOSTS, TODAY), ([], None))
