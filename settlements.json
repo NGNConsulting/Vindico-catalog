@@ -669,6 +669,216 @@
       "url": "https://summitmedicaldatasettlement.com/",
       "keywords": [],
       "noProofRequired": true
+    },
+    {
+      "id": "educational-computer-systems-data-breach-2026",
+      "name": "Educational Computer Systems data breach",
+      "eligibility": "Individuals whose personal information was potentially impacted by the criminal cyberattack on ECSI's website between October 29, 2023 and February 12, 2024.",
+      "payout": "Up to $5,000 for documented unreimbursed losses, or an alternative cash payment of about $100 (pro rata adjusted)",
+      "deadline": "2026-12-21",
+      "url": "https://www.datasettlementecsi.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "teleflora-do-not-call-registry-2026",
+      "name": "Teleflora Do Not Call Registry",
+      "eligibility": "People in the U.S. who did not give Teleflora LLC their phone number, and whose residential or cellular number had been on the National Do Not Call Registry for at least 30 days before Teleflora sent them at least two promotional texts within a 12-month period, between May 9, 2021 and the date of preliminary approval.",
+      "payout": "Up to $251 per claimant, paid by check",
+      "deadline": "2026-11-17",
+      "url": "https://www.tfsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "levoit-air-purifier-2026",
+      "name": "Levoit air purifier",
+      "eligibility": "People who purchased a Levoit-branded Core or EverestAir air purifier and/or replacement filter with \"True HEPA,\" \"HEPA,\" and/or \"H13\" language in the United States between August 29, 2019 and August 4, 2023.",
+      "payout": "$10.00 digital payment per valid claim (total awards capped at $15,000,000; may be reduced depending on the number of valid claims)",
+      "deadline": "2026-11-03",
+      "url": "https://lapsettlement.com/index.html",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "american-vision-partners-data-breach-2026",
+      "name": "American Vision Partners data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-75m-american-vision-partners-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "forbes-media-website-tracking-2026",
+      "name": "Forbes Media website tracking",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/10m-forbes-media-website-tracking-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "navy-federal-credit-union-unauthorized-loans-2026",
+      "name": "Navy Federal Credit Union unauthorized loans",
+      "eligibility": "NFCU members who, between January 1, 2023 and January 31, 2025, were given a personal loan applied for from an unfamiliar device, whose fraud dispute NFCU denied in whole or in part, and whose loan funds NFCU has not fully recovered.",
+      "payout": "Automatic loan cancellation, credit-report deletion request and refund of payments made, plus an additional $250 with a claim form",
+      "deadline": "2026-11-29",
+      "url": "https://www.nfculoansettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "furniture-mart-usa-data-breach-2026",
+      "name": "Furniture Mart USA data breach",
+      "eligibility": "All individuals residing in the United States whose personal information was potentially compromised in the November 2024 Furniture Mart, USA, Inc. data breach.",
+      "payout": "$75 alternative cash payment, or documented out-of-pocket losses (up to $4,500 per the aggregator listing) plus up to $100 for lost time, with identity protection services",
+      "deadline": "2026-11-03",
+      "url": "https://fmusadatabreachsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "modernizing-medicine-data-breach-2026",
+      "name": "Modernizing Medicine data breach",
+      "eligibility": "All living individuals residing in the United States who were sent a notice that their Private Information was impacted in the July 2025 ModMed data incident.",
+      "payout": "Two years of medical data monitoring, plus either up to $5,000 for documented losses or about $75 cash (no proof needed)",
+      "deadline": "2026-11-02",
+      "url": "https://modernizingmedicinedatasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "amwell-livehealth-online-data-sharing-2026",
+      "name": "Amwell, LiveHealth Online data sharing",
+      "eligibility": "People who used the Appointment Booking Tool on the LiveHealth Online website, iOS app or Android app between October 2024 and August 2025. The October 2024–August 2025 class period comes from an aggregator listing. The official home page I read did not state it.",
+      "payout": "$51.14",
+      "deadline": "2026-10-30",
+      "url": "https://www.livehealthonlinesettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "university-of-hawaii-data-breach-2026",
+      "name": "University of Hawaii data breach",
+      "eligibility": "Living people in the United States who were notified that their private information was potentially compromised in the August 2025 University of Hawai'i Cancer Center data incident.",
+      "payout": "Up to $5,000 for documented extraordinary losses, or an estimated $50 pro rata cash payment with no proof required, plus one year of medical data monitoring",
+      "deadline": "2026-11-02",
+      "url": "https://uhdatasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "connectoncall-data-breach-2026",
+      "name": "ConnectOnCall data breach",
+      "eligibility": "Living individuals residing in the United States whose Private Information may have been impacted in the ConnectOnCall Data Incident that occurred between February 16, 2024 and May 12, 2024.",
+      "payout": "Two years of dark web and medical data monitoring, plus either up to $5,000 for documented losses or an alternate cash payment of up to $75",
+      "deadline": "2026-11-02",
+      "url": "https://www.connectoncallsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "sandoz-and-fougera-antitrust-2026",
+      "name": "Sandoz and Fougera antitrust",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/275m-sandoz-and-fougera-antitrust-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "amn-healthcare-privacy-violations-2026",
+      "name": "AMN Healthcare privacy violations",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-5m-amn-healthcare-privacy-violations-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "fn-logistics-wage-and-hour-violations-2026",
+      "name": "FN Logistics wage and hour violations",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/5-56m-fn-logistics-wage-and-hour-violations-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "concora-credit-tcpa-2026",
+      "name": "Concora Credit TCPA",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-37m-concora-credit-tcpa-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "visa-mastercard-non-bank-atm-2026",
+      "name": "Visa, Mastercard non-bank ATM",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/167-5m-visa-mastercard-non-bank-atm-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "transunion-inaccurate-credit-report-2026",
+      "name": "TransUnion inaccurate credit report",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-31m-transunion-inaccurate-credit-report-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "pork-price-fixing-2026",
+      "name": "pork price-fixing",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/117m-pork-price-fixing-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "palomar-health-data-breach-2026",
+      "name": "Palomar Health data breach",
+      "eligibility": "Individuals in the United States whose private information was potentially compromised in the Palomar Health Medical Group data incident that occurred between April 23, 2024 and May 5, 2024, and who received notice of it.",
+      "payout": "Up to $5,000 for documented losses or an estimated $60 cash payment, plus two years of credit monitoring",
+      "deadline": "2026-10-22",
+      "url": "https://www.phmgdatasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "lloyd-s-of-london-insurance-price-fixing-2026",
+      "name": "Lloyd’s of London insurance price-fixing",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-57m-lloyds-of-london-insurance-price-fixing-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
     }
   ]
 }
