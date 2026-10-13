@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "settlements": [
     {
       "id": "google-assistant-privacy-2026",
@@ -466,203 +466,209 @@
     },
     {
       "id": "dr-squatch-soap-false-advertising-2026",
-      "name": "Dr. Squatch soap false advertising",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9m-dr-squatch-soap-false-advertising-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
+      "name": "Dr. Squatch 'natural' claims",
+      "eligibility": "Bought Dr. Squatch 'natural' products in the U.S. between Nov. 1, 2018 and Aug. 29, 2026.",
+      "payout": "About $0.50/product, up to $12.50 (pro rata)",
+      "deadline": "2026-11-27",
+      "url": "https://www.personalcareproductssettlement.com/",
+      "keywords": [
+        "dr squatch",
+        "dr. squatch"
+      ],
+      "noProofRequired": true
     },
     {
       "id": "carter-credit-union-data-breach-2026",
       "name": "Carter Credit Union data breach",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/carter-credit-union-data-breach-class-action-settlement/",
+      "eligibility": "Carter Federal Credit Union member whose data was exposed in the 2025 cyberattack and who received a settlement notice.",
+      "payout": "$50 cash (no proof) or up to $2,500 documented losses",
+      "deadline": "2026-11-19",
+      "url": "https://ccudatasettlement.com/",
       "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     },
     {
       "id": "neutrogena-skin360-bipa-violation-2026",
-      "name": "Neutrogena Skin360 BIPA violation",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-7m-neutrogena-skin360-bipa-violation-class-action-settlement/",
+      "name": "Neutrogena Skin360 facial scans",
+      "eligibility": "Did a Neutrogena or NeoStrata Skin360 skin assessment while in Illinois between Dec. 9, 2019 and May 5, 2023.",
+      "payout": "Pro rata share of $4.7M fund",
+      "deadline": "2026-11-25",
+      "url": "https://www.skin360bipasettlement.com/",
       "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     },
     {
       "id": "apple-siri-false-advertising-2026",
-      "name": "Apple Siri false advertising",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/250m-apple-siri-false-advertising-class-action-settlement/",
-      "keywords": [],
+      "name": "Apple Intelligence (Siri) iPhone advertising",
+      "eligibility": "Bought an iPhone 15 Pro/Pro Max or iPhone 16 (16e, Plus, Pro, Pro Max) in the U.S. between June 10, 2024 and Mar. 29, 2025. Claim needs the iPhone serial number.",
+      "payout": "About $25 per iPhone, up to $95",
+      "deadline": "2026-12-21",
+      "url": "https://www.smartphoneaisettlement.com/",
+      "keywords": [
+        "iphone 15",
+        "iphone 16"
+      ],
       "noProofRequired": false
     },
     {
       "id": "progressive-pip-insurance-2026",
-      "name": "Progressive PIP insurance",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8m-progressive-pip-insurance-class-action-settlement/",
+      "name": "Progressive Texas PIP late payments",
+      "eligibility": "Texas Progressive County Mutual PIP policyholders whose medical bills were paid late (EOB dates Aug. 30, 2016 to June 1, 2026).",
+      "payout": "Formula-based: 11.452% interest, plus 5% for bills paid 30+ days late",
+      "deadline": "2027-01-19",
+      "url": "https://traviscountypipsettlement.com/",
       "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     },
     {
       "id": "state-farm-umpd-insurance-2026",
-      "name": "State Farm UMPD insurance",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/8-82m-state-farm-umpd-insurance-class-action-settlement/",
+      "name": "State Farm UMPD (Washington)",
+      "eligibility": "Washington State Farm insureds paid under underinsured-motorist property damage coverage for an accident from Jan. 13, 2019 to Feb. 27, 2026 (repair estimate $1,000+; vehicle age and mileage limits apply).",
+      "payout": "Average about $625; varies by repair cost",
+      "deadline": "2026-12-14",
+      "url": "https://washingtonumpdsettlement.com/",
       "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     },
     {
       "id": "new-york-red-light-camera-fee-2026",
-      "name": "New York red-light camera fee",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/45m-new-york-red-light-camera-fee-class-action-settlement/",
+      "name": "Suffolk County (NY) red-light camera fees",
+      "eligibility": "Paid the $30 administrative fee on a Suffolk County, New York red-light camera ticket since Apr. 1, 2013.",
+      "payout": "Up to $36 per violation (fee plus interest)",
+      "deadline": "2026-12-08",
+      "url": "https://www.suffolkredlightsettlement.com/",
       "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     },
     {
       "id": "wayne-memorial-hospital-data-breach-2026",
       "name": "Wayne Memorial Hospital data breach",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/wayne-memorial-hospital-data-breach-class-action-settlement/",
+      "eligibility": "Received notice of the June 2024 Wayne Memorial Hospital (Georgia) data incident.",
+      "payout": "About $25 cash (no proof) or up to $5,000 documented losses",
+      "deadline": "2026-12-07",
+      "url": "https://wmhdatasettlement.com/",
       "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     },
     {
       "id": "john-deere-antitrust-2026",
-      "name": "John Deere antitrust",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/99m-john-deere-antitrust-class-action-settlement/",
-      "keywords": [],
+      "name": "John Deere repair services",
+      "eligibility": "Bought repair services for John Deere large agricultural equipment from Deere or its dealers in the U.S. between Jan. 10, 2018 and May 18, 2026.",
+      "payout": "Pro rata share of $99M fund (by repair labor hours)",
+      "deadline": "2026-12-31",
+      "url": "https://deererepairsettlement.com/",
+      "keywords": [
+        "john deere"
+      ],
       "noProofRequired": false
     },
     {
       "id": "amazon-return-policy-2026",
-      "name": "Amazon return policy",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/309-5m-amazon-return-policy-class-action-settlement/",
-      "keywords": [],
+      "name": "Amazon returns and refunds",
+      "eligibility": "Returned or requested a refund on a physical product bought on Amazon.com between Sept. 5, 2017 and Feb. 12, 2026 and had a refund problem. Subclass A is paid automatically; Subclass B must file with proof.",
+      "payout": "Pro rata share of $309.5M fund; amount not yet set",
+      "deadline": "2026-12-01",
+      "url": "https://www.returnsettlement.com/",
+      "keywords": [
+        "amazon"
+      ],
       "noProofRequired": false
     },
     {
       "id": "sun-taro-generic-drug-antitrust-2026",
-      "name": "Sun, Taro generic drug antitrust",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/200m-sun-taro-generic-drug-antitrust-class-action-settlement/",
+      "name": "Generic drug price-fixing (Sun/Taro, Sandoz)",
+      "eligibility": "Indirectly bought certain generic drugs between May 1, 2009 and Dec. 31, 2019; pharmacy or insurer records of the purchases are required.",
+      "payout": "Pro rata share of the Sun/Taro ($200M) and Sandoz funds",
+      "deadline": "2026-11-09",
+      "url": "https://www.genericdrugsendpayersettlement.com/",
       "keywords": [],
       "noProofRequired": false
     },
     {
       "id": "equifax-hard-inquiry-dispute-2026",
-      "name": "Equifax hard inquiry dispute",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/30m-equifax-hard-inquiry-dispute-class-action-settlement/",
+      "name": "Equifax hard-inquiry disputes",
+      "eligibility": "Disputed a hard credit inquiry with Equifax (2016-2026) and received a settlement notice with a Claim Number and PIN.",
+      "payout": "Estimated $100 to $400 depending on group",
+      "deadline": "2026-11-29",
+      "url": "https://www.equifaxdisputeclassaction.com/",
       "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     },
     {
       "id": "mdlive-data-privacy-2026",
-      "name": "MDLive data privacy",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-5m-mdlive-data-privacy-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
-    },
-    {
-      "id": "labcorp-web-tracking-2026",
-      "name": "Labcorp web tracking",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/labcorp-web-tracking-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
+      "name": "MDLIVE patient portal privacy",
+      "eligibility": "Used the MDLIVE patient portal (patient.mdlive.com) between May 30, 2023 and Aug. 11, 2025 with an active Facebook or Google account.",
+      "payout": "Up to $15 (pro rata)",
+      "deadline": "2026-12-01",
+      "url": "https://www.ehisettlement.com/",
+      "keywords": [
+        "mdlive"
+      ],
+      "noProofRequired": true
     },
     {
       "id": "cvs-digital-privacy-2026",
       "name": "CVS digital privacy",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/20-5m-cvs-digital-privacy-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
+      "eligibility": "Used CVS.com, CVSHealth.com or the CVS app in the U.S. before July 27, 2026 (one claim per household).",
+      "payout": "Up to $10 with proof, $5 without",
+      "deadline": "2026-11-16",
+      "url": "https://www.cvsdigitalprivacysettlement.com/",
+      "keywords": [
+        "cvs"
+      ],
+      "noProofRequired": true
     },
     {
       "id": "kia-optima-sportage-defective-window-regulator-2026",
-      "name": "Kia Optima, Sportage defective window regulator",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/kia-optima-sportage-defective-window-regulator-class-action-settlement/",
+      "name": "Kia window regulator (2016-17 Optima, 2017 Sportage)",
+      "eligibility": "Current or former owner or lessee of a 2016-2017 Kia Optima or 2017 Kia Sportage (matched by VIN).",
+      "payout": "Up to $400 per window-regulator repair, or a $40 dealer service card",
+      "deadline": "2026-11-23",
+      "url": "https://kiawindowregulatorsettlement.com/",
       "keywords": [],
       "noProofRequired": false
     },
     {
       "id": "onetouchpoint-data-breach-2026",
       "name": "OneTouchPoint data breach",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/onetouchpoint-data-breach-class-action-settlement/",
+      "eligibility": "Current or former patient or subscriber of a OneTouchPoint client whose data was exposed in the April 2022 data incident.",
+      "payout": "$75 cash (no proof) or up to $5,000 documented losses",
+      "deadline": "2026-11-16",
+      "url": "https://otpdataincident.com/",
       "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     },
     {
       "id": "wellstar-health-tracking-pixel-2026",
-      "name": "Wellstar Health tracking pixel",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-25m-wellstar-health-tracking-pixel-class-action-settlement/",
+      "name": "Wellstar Health website tracking",
+      "eligibility": "Wellstar patient whose info was shared with third parties through website or MyChart portal trackers between Feb. 19, 2020 and July 22, 2026.",
+      "payout": "Pro rata share of $4.25M fund",
+      "deadline": "2026-11-10",
+      "url": "https://wellstardataprivacysettlement.com/",
       "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     },
     {
       "id": "schnucks-rewards-2026",
-      "name": "Schnucks rewards",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/schnucks-rewards-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
+      "name": "Schnucks Rewards sales tax",
+      "eligibility": "Schnucks Rewards member who redeemed rewards points on tax-eligible items at a Missouri Schnucks between May 2, 2020 and Aug. 7, 2026.",
+      "payout": "$7 cash",
+      "deadline": "2026-11-03",
+      "url": "https://schnuckstaxsettlement.com/",
+      "keywords": [
+        "schnucks"
+      ],
+      "noProofRequired": true
     },
     {
       "id": "summit-medical-data-breach-2026",
-      "name": "Summit Medical data breach",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/summit-medical-data-breach-class-action-settlement/",
+      "name": "Summit Medical Group data breach",
+      "eligibility": "Received notice of the September 2024 Summit Medical Group (Tennessee) data breach.",
+      "payout": "Up to $45 lost time or up to $2,500 documented losses",
+      "deadline": "2026-11-04",
+      "url": "https://summitmedicaldatasettlement.com/",
       "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     }
   ]
 }
