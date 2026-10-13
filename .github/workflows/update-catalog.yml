@@ -1,7 +1,8 @@
 # Weekly settlement-candidate scan.
 #
 # Scrapes aggregators for newly opened settlements, drafts REVIEW-marked
-# entries by fetching each source page and asking Claude to extract the real
+# entries by asking Claude to find each settlement's official administrator
+# site (server-side web search/fetch) and extract the real
 # eligibility/payout/deadline (skipped as a no-op if ANTHROPIC_API_KEY isn't
 # configured — see fill_drafts.py), then opens a PR. Entries the model
 # resolved are stamped "aiDrafted": true and listed explicitly in the PR body
@@ -27,13 +28,14 @@ permissions:
 jobs:
   scan:
     runs-on: ubuntu-latest
+    timeout-minutes: 60     # 20 research calls; caps spend if one hangs
     steps:
       - uses: actions/checkout@v4
 
       - name: Scrape aggregators for new settlements
         run: python scripts/scrape_candidates.py
 
-      - name: Draft-fill REVIEW entries from source pages
+      - name: Draft-fill REVIEW entries from official settlement sites
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/fill_drafts.py

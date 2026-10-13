@@ -27,8 +27,10 @@ Before merging, for each entry still marked REVIEW:
 - [ ] Add `keywords` if receipt-matchable; set `noProofRequired`
 
 For entries marked `"aiDrafted": true`, do a cursory check against the
-listed source rather than a full re-lookup — Claude already extracted these
-from that page's own text, but it can misread a page same as a person can.
+listed official site rather than a full re-lookup — Claude researched these
+on the settlement's own website, but it can misread a page same as a person
+can. Check the claim deadline in particular: it is the field that matters
+most and the easiest to confuse with the opt-out or hearing date.
 
 Merging deploys to GitHub Pages; installs sync on next launch.
 """
@@ -44,11 +46,28 @@ def draft_section() -> str:
     if not items:
         return ""
 
-    lines = ["\n---\n\n### Auto-drafted this run — quick check, not a full re-lookup\n"]
-    for item in items:
-        fields = ", ".join(item.get("fields", []))
-        lines.append(f"- **{item.get('name', '?')}** — {fields}  \n  source: {item.get('source', '?')}")
-    return "\n".join(lines) + "\n"
+    drafted = [i for i in items if i.get("fields")]
+    flagged = [i for i in items if i.get("flag")]
+    out = []
+
+    if drafted:
+        lines = ["\n---\n\n### Auto-drafted this run — quick check, not a full re-lookup\n"]
+        for item in drafted:
+            fields = ", ".join(item.get("fields", []))
+            note = f"  \n  note: {item['flag']}" if item.get("flag") else ""
+            lines.append(
+                f"- **{item.get('name', '?')}** — {fields}  \n  official site: {item.get('source', '?')}{note}"
+            )
+        out.append("\n".join(lines) + "\n")
+
+    not_drafted = [i for i in flagged if not i.get("fields")]
+    if not_drafted:
+        lines = ["\n---\n\n### Needs a decision — Claude could not safely fill these\n"]
+        for item in not_drafted:
+            lines.append(f"- **{item.get('name', '?')}** — {item['flag']}")
+        out.append("\n".join(lines) + "\n")
+
+    return "".join(out)
 
 
 def main() -> None:
