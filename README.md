@@ -47,8 +47,9 @@ the Actions tab → "Run workflow"). It executes
 3. Adds up to 20 new candidates per run as **draft entries** with
    `REVIEW` placeholders.
 
-Then `scripts/fill_drafts.py` (needs the `ANTHROPIC_API_KEY` repo secret and
-web search enabled for that key's organization in the Claude Console) asks
+Then `scripts/fill_drafts.py` (needs the `ANTHROPIC_API_KEY` repo secret; web
+search is on by default for the key's organization unless an admin disabled it
+under Claude Console → Settings → Capabilities) asks
 Claude to find each settlement's **official administrator site** with the
 API's server-side web search/fetch tools, and fills in eligibility, payout,
 claim deadline and the official URL. Filled entries are stamped

@@ -40,8 +40,10 @@ guards above exist.
 Optional and additive: if ANTHROPIC_API_KEY isn't set, this exits 0 as a
 no-op and REVIEW placeholders reach the PR unfilled.
 
-Requires web search to be enabled for the API key's organization (Claude
-Console -> Privacy). If it is not, every call fails and entries stay REVIEW.
+Web search is on by default for an organization unless an admin turned it
+off (Claude Console -> Settings -> Capabilities, platform.claude.com/settings/
+capabilities, where domain restrictions also live). If it is off, every call
+fails with a 400 "web search is not enabled" and entries stay REVIEW.
 
 Stdlib only (raw HTTPS to the Messages API, no `anthropic` package) to match
 the rest of this repo's scripts and avoid a pinned dependency in CI.
