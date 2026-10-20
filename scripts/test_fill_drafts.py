@@ -118,17 +118,67 @@ class ApplyDraft(unittest.TestCase):
             self.assertEqual(filled, [], bad)
             self.assertEqual(e, shell(), bad)
 
-    def test_past_or_malformed_deadline_left_as_review(self):
-        for bad in ("2026-10-12", "12/01/2026", "2026-13-40", None):
+    def test_malformed_deadline_left_as_review_other_fields_still_land(self):
+        for bad in ("12/01/2026", "2026-13-40", None):
             e = shell()
             filled, _ = fd.apply_draft(e, good(deadline=bad), HOSTS, TODAY)
             self.assertEqual(e["deadline"], "REVIEW", bad)
             self.assertIn("payout", filled)
 
-    def test_deadline_today_is_still_open(self):
+    # 2026-10-19 run: Globe Life / MCNA / NYC Central Booking / State Farm Louisiana
+    # all had a claim deadline of the run day itself and were filled anyway.
+    def test_deadline_same_day_as_run_is_flagged_not_filled(self):
+        run_day = date(2026, 10, 19)
         e = shell()
-        fd.apply_draft(e, good(deadline="2026-10-13"), HOSTS, TODAY)
-        self.assertEqual(e["deadline"], "2026-10-13")
+        filled, note = fd.apply_draft(e, good(deadline="2026-10-19"), HOSTS, run_day)
+        self.assertEqual(filled, [])
+        self.assertIn("closes in 0 day(s)", note)
+        self.assertIn("flagged for deletion", note)
+        self.assertEqual(e["deadline"], "REVIEW")
+        self.assertEqual(e["payout"], "REVIEW")
+        self.assertTrue(e["eligibility"].startswith("REVIEW: closes in 0 day(s)"))
+        self.assertNotIn("aiDrafted", e)
+        self.assertEqual(e["url"], shell()["url"])                      # aggregator link untouched
+
+    def test_already_closed_deadline_is_flagged(self):
+        e = shell()
+        filled, note = fd.apply_draft(e, good(deadline="2025-11-14"), HOSTS, TODAY)   # HSHS
+        self.assertEqual(filled, [])
+        self.assertIn("already closed", note)
+        self.assertTrue(e["eligibility"].startswith("REVIEW: already closed"))
+
+    def test_runway_boundary(self):
+        for days, expect_filled in ((fd.MIN_RUNWAY_DAYS - 1, False), (fd.MIN_RUNWAY_DAYS, True)):
+            d = date.fromordinal(TODAY.toordinal() + days).isoformat()
+            e = shell()
+            filled, _ = fd.apply_draft(e, good(deadline=d), HOSTS, TODAY)
+            self.assertEqual("deadline" in filled, expect_filled, d)
+            self.assertEqual(e["deadline"], d if expect_filled else "REVIEW", d)
+
+    def test_short_runway_flag_needs_a_trusted_answer(self):
+        e = shell()
+        self.assertEqual(fd.apply_draft(e, good(deadline="2026-10-13", confidence="low"), HOSTS, TODAY), ([], None))
+        self.assertEqual(e, shell())
+        e = shell()
+        filled, note = fd.apply_draft(
+            e, good(deadline="2026-10-13", official_url="https://invented-site.com"), HOSTS, TODAY)
+        self.assertEqual(filled, [])
+        self.assertIn("not returned", note)          # the host guard fires first
+        self.assertEqual(e, shell())
+
+    def test_short_runway_does_not_clobber_a_human_written_eligibility(self):
+        e = shell(eligibility="Human wrote this.")
+        filled, note = fd.apply_draft(e, good(deadline="2026-10-13"), HOSTS, TODAY)
+        self.assertEqual(filled, [])
+        self.assertEqual(e["eligibility"], "Human wrote this.")
+        self.assertIn("flagged for deletion", note)
+
+    def test_days_left(self):
+        self.assertEqual(fd.days_left("2026-10-13", TODAY), 0)
+        self.assertEqual(fd.days_left("2026-10-20", TODAY), 7)
+        self.assertEqual(fd.days_left("2026-10-12", TODAY), -1)
+        for bad in (None, "", "12/01/2026", "2026-13-40", 20261013):
+            self.assertIsNone(fd.days_left(bad, TODAY), bad)
 
     def test_never_clobbers_resolved_fields(self):
         e = shell(eligibility="Human wrote this.", payout="$5", deadline="2026-11-01")
