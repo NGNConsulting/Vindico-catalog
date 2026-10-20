@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "settlements": [
     {
       "id": "google-assistant-privacy-2026",
@@ -853,215 +853,130 @@
     {
       "id": "jefferson-county-health-center-data-breach-2026",
       "name": "Jefferson County Health Center data breach",
-      "eligibility": "People who received notice from Jefferson County Health Center that their personal information may have been compromised in the Security Incident between October 31 and November 15, 2022.",
-      "payout": "$150 cash (no documentation) or up to $300 for documented lost time and expenses",
+      "eligibility": "Received notice that your personal information may have been compromised in the Oct. 31 to Nov. 15, 2022 Jefferson County Health Center security incident.",
+      "payout": "$150 cash (no proof), or up to $300 for documented lost time and expenses",
       "deadline": "2026-11-16",
       "url": "https://jeffersoncountybreachsettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": true
     },
     {
       "id": "costa-del-mar-sunglasses-2026",
-      "name": "Costa Del Mar sunglasses",
-      "eligibility": "Florida citizens who bought non-prescription, non-promotional Costa sunglasses from 2013-07-28 to 2018-01-31, or were charged a replacement fee from 2012-07-28 to 2025-01-26 on sunglasses bought by 2018-01-31.",
-      "payout": "Pro rata cash payment per eligible purchase or repair from a $21.75M fund",
+      "name": "Costa Del Mar sunglasses (Florida buyers)",
+      "eligibility": "Florida residents who bought non-prescription, non-promotional Costa sunglasses from July 28, 2013 to Jan. 31, 2018.",
+      "payout": "Pro rata share of a $6.375M purchase fund",
       "deadline": "2027-01-11",
-      "url": "https://www.costasunglasslitigation.com/",
+      "url": "https://costasunglasslitigation.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "kroger-prescription-prices-2026",
-      "name": "Kroger prescription prices",
-      "eligibility": "Individuals who paid for one or more prescription drugs at Kroger using insurance, affected by Kroger's usual and customary (U&C) pricing practices, during the Settlement Class Period.",
-      "payout": "Pro rata share of the Net Settlement Fund",
+      "name": "Kroger prescription drug pricing",
+      "eligibility": "Paid in whole or in part for a prescription at Kroger using insurance between Dec. 9, 2018 and Aug. 23, 2026.",
+      "payout": "Pro rata share of a $17M fund; documents needed only for claims of $8,000+",
       "deadline": "2026-12-21",
       "url": "https://www.krogersavingsclubsettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "equifax-fcra-violations-2026",
-      "name": "Equifax FCRA violations",
-      "eligibility": "Individuals in the US whose credit score or attribute Equifax reported to a third party in a class transaction between March 17 and April 8, 2022 was altered by an Equifax coding (OMS) issue.",
-      "payout": "Equal pro rata share of a $100 million settlement fund",
+      "name": "Equifax credit score coding error (2022)",
+      "eligibility": "A credit score or attribute Equifax sent to a third party between Mar. 17 and Apr. 8, 2022 was altered by an Equifax coding error.",
+      "payout": "Pro rata share of $100M fund (estimated $95 to $280)",
       "deadline": "2026-12-28",
       "url": "https://www.equifaxfaircreditreportingsettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "kelly-associates-insurance-group-data-breach-2026",
-      "name": "Kelly & Associates Insurance Group data breach",
-      "eligibility": "Individuals residing in the United States whose Private Information was compromised in the Kelly Benefits data breach between December 12, 2024 and December 17, 2024.",
-      "payout": "Up to $5,000 documented losses, or ~$50 cash; credit monitoring; ~$100 extra for California residents",
+      "name": "Kelly Benefits data breach",
+      "eligibility": "Personal information compromised in the Dec. 12 to 17, 2024 Kelly Benefits (Kelly & Associates Insurance Group) breach.",
+      "payout": "About $50 cash, or up to $5,000 documented losses; about $100 more in California",
       "deadline": "2026-12-28",
       "url": "https://www.kellybenefitssettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "university-of-phoenix-website-tracking-2026",
       "name": "University of Phoenix website tracking",
-      "eligibility": "Anyone in the U.S. enrolled at the University of Phoenix from April 1, 2023 through the class notice date, or in Illinois enrolled from April 1, 2020 through the class notice date.",
-      "payout": "$25 per approved claim (reduced pro rata if the $8,750,000 cap is reached)",
+      "eligibility": "Enrolled at University of Phoenix from Apr. 1, 2023 to Oct. 6, 2026 (Illinois: from Apr. 1, 2020).",
+      "payout": "$25 per valid claim (reduced pro rata if the cap is hit)",
       "deadline": "2026-11-05",
       "url": "https://uoppixelsettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "ted-foundation-vppa-2026",
-      "name": "TED Foundation VPPA",
-      "eligibility": "People in the United States who were TED account holders and watched a pre-recorded video on TED.com or TED's iOS or Android apps between October 19, 2021 and July 14, 2026.",
-      "payout": "2 free months of TED Membership, or $5 cash (pro rata reduction possible) with a claim",
+      "name": "TED video privacy (VPPA)",
+      "eligibility": "U.S. TED account holders who watched a pre-recorded video on TED.com or its apps between Oct. 19, 2021 and July 14, 2026.",
+      "payout": "2 free months of TED Membership automatically, or $5 cash with a claim",
       "deadline": "2026-10-26",
       "url": "https://www.tedvppasettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "highlands-oncology-group-data-breach-2026",
       "name": "Highlands Oncology Group data breach",
-      "eligibility": "All individuals residing in the United States whose Private Information was compromised in the Highlands Oncology Group data breach on or around June 2025.",
-      "payout": "$50 cash or up to $4,250 documented losses, plus 3 years of medical identity monitoring",
+      "eligibility": "Private information compromised in the June 2025 Highlands Oncology Group data incident.",
+      "payout": "About $50 cash (no proof) or up to $4,250 documented losses",
       "deadline": "2026-10-22",
       "url": "https://highlandsoncologysettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "globe-life-data-breach-2026",
-      "name": "Globe Life data breach",
-      "eligibility": "People who were sent a letter from American Income Life Insurance Co. and/or Globe Life Inc. saying their personal information may have been exposed in the data incident on or about October 2, 2024.",
-      "payout": "Up to $5,000 documented losses plus up to 4 hours at $18/hr; 2 years credit monitoring",
-      "deadline": "2026-10-19",
-      "url": "https://www.aildatasettlement.com/",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "managed-care-of-north-america-data-breach-2026",
-      "name": "Managed Care of North America data breach",
-      "eligibility": "All living individuals who were sent a notice that their Private Information was potentially impacted by the MCNA data incident between February 26, 2023 and March 7, 2023.",
-      "payout": "Free 2-year medical data monitoring; up to $2,500 for documented out-of-pocket losses",
-      "deadline": "2026-10-19",
-      "url": "https://mcnadatabreachsettlement.com/",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "vsl-pharmaceuticals-probiotic-2026",
-      "name": "VSL Pharmaceuticals probiotic",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/20m-vsl-pharmaceuticals-probiotic-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
-    },
-    {
-      "id": "community-dental-care-data-breach-2026",
-      "name": "Community Dental Care data breach",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/community-dental-care-data-breach-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     },
     {
       "id": "bestway-above-ground-pool-safety-2026",
-      "name": "Bestway above-ground pool safety",
-      "eligibility": "People in the U.S. who bought a Bestway pool for personal use, 48 inches or taller with compression straps outside the support legs (including Power Steel, Steel Pro and Coleman Power Steel), sold 2008–2024.",
-      "payout": "10% of purchase price with proof of purchase, or $40 cash without proof",
+      "name": "Bestway above-ground pool straps",
+      "eligibility": "Bought a Bestway pool 48 inches or taller with compression straps outside the support legs (incl. Power Steel, Steel Pro) sold 2008 to 2024.",
+      "payout": "$40 cash without proof, or 10% of price with proof of purchase",
       "deadline": "2026-10-30",
       "url": "https://www.poolsettlementbw.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "new-york-city-central-booking-2026",
-      "name": "New York City Central Booking",
-      "eligibility": "People detained at a NYC Central Booking facility between April 8, 2017 and December 27, 2019 (Brooklyn) or between February 3, 2020 and March 1, 2023 (all locations).",
-      "payout": "Up to $475 for each time held in a Central Booking facility",
-      "deadline": "2026-10-19",
-      "url": "https://www.centralbookingsettlement.com/",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": true
     },
     {
       "id": "equinox-data-breach-2026",
       "name": "Equinox data breach",
-      "eligibility": "U.S. residents who were sent a notice from Equinox, Inc. that their Private Information may have been affected by the data incident of about April 29, 2024.",
-      "payout": "Up to $5,000 documented losses and/or ~$100 pro rata cash; 3 years credit monitoring",
+      "eligibility": "U.S. residents sent a notice that their information may have been affected by the April 2024 Equinox data incident.",
+      "payout": "About $100 cash (no receipts) or up to $5,000 documented losses",
       "deadline": "2026-10-23",
       "url": "https://www.equinoxincsettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "state-farm-louisiana-car-insurance-total-loss-2026",
-      "name": "State Farm Louisiana car insurance total loss",
-      "eligibility": "Louisiana State Farm insureds who submitted a first-party physical damage claim for their vehicle that resulted in a total loss payment between May 17, 2022 and May 21, 2026.",
-      "payout": "Payment of unpaid Purchasing Fees for covered total loss claims",
-      "deadline": "2026-10-19",
-      "url": "https://louisianafeessettlement.com/",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": true
     },
     {
       "id": "whirlpool-defective-refrigerator-2026",
-      "name": "Whirlpool defective refrigerator",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/whirlpool-defective-refrigerator-class-action-settlement/",
+      "name": "Whirlpool side-by-side refrigerator wire harness",
+      "eligibility": "Owners of certain 2018 to 2021 Whirlpool, Maytag, KitchenAid or JennAir side-by-side refrigerators whose wire harness failed before May 5, 2026.",
+      "payout": "Repair or partial reimbursement of purchase price; documentation required",
+      "deadline": "2026-11-02",
+      "url": "https://www.refrigeratorsettlement.com/",
       "keywords": [],
       "noProofRequired": false
     },
     {
       "id": "kia-hyundai-settlement-offers-cash-and-security-2026",
-      "name": "Kia Hyundai settlement offers cash and security upgrades to owners",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9m-kia-hyundai-settlement-offers-cash-and-security-upgrades-to-owners/",
+      "name": "Hyundai and Kia theft (immobilizer) settlement",
+      "eligibility": "Owners of certain 2011 to 2022 Hyundai or Kia vehicles without an engine immobilizer that were stolen or targeted on or after Apr. 29, 2025.",
+      "payout": "Up to $4,500 total loss, $2,250 partial loss, $375 attempted theft",
+      "deadline": "2027-03-31",
+      "url": "https://www.hkmultistateimmobilizersettlement.com/",
       "keywords": [],
       "noProofRequired": false
     },
     {
       "id": "hearthside-food-solutions-child-labor-2026",
-      "name": "Hearthside Food Solutions child labor",
-      "eligibility": "Anyone who worked at a Hearthside Food Solutions facility in Illinois between March 1, 2020 and December 4, 2024 while under age 16, including temp-agency workers.",
-      "payout": "Pro-rata share of the settlement fund, based on time worked at Hearthside while under 16",
+      "name": "Hearthside Food Solutions child labor (Illinois)",
+      "eligibility": "Worked at an Illinois Hearthside facility while under 16 between Mar. 1, 2020 and Dec. 4, 2024, including temp-agency workers.",
+      "payout": "Pro rata share of a $4.5M fund based on time worked; proof of age and work needed",
       "deadline": "2026-11-20",
       "url": "https://www.hearthsidefssettlement.com/",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "hospital-sisters-health-system-hshs-data-breach-2026",
-      "name": "Hospital Sisters Health System HSHS data breach Settlement",
-      "eligibility": "REVIEW: likely NOT claimable (The Home page of hshsdatasettlement.com lists November 14, 2025 as the claim deadline.). Delete this entry if confirmed.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/7-6m-hospital-sisters-health-system-hshs-data-breach-settlement/",
       "keywords": [],
       "noProofRequired": false
     }
