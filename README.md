@@ -56,7 +56,9 @@ claim deadline and the official URL. Filled entries are stamped
 `"aiDrafted": true`. It never overwrites a field a human already resolved,
 refuses to write anything unless the official site was actually visited,
 and flags — never deletes — a settlement whose site shows no payment or no
-claim process. Anything it can't settle with high confidence stays `REVIEW`.
+claim process, or whose claim window is already closed or closes within 3
+days (too soon to survive review, merge and an app sync; the PR body lists
+these under "Needs a decision"). Anything it can't settle with high confidence stays `REVIEW`.
 (Aggregator article pages can't be fetched from a GitHub runner — they
 return HTTP 403 — which is why the drafts come from the official site.)
 Finally the workflow opens (or updates) a pull request.

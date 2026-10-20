@@ -24,8 +24,9 @@ of the model's answer (it is never trusted as-is):
   - nothing is written unless the model names an official URL whose host was
     actually returned by a web_search/web_fetch result this run, and that is
     not a known aggregator/news site;
-  - a claim deadline must be a real yyyy-mm-dd date that is still in the
-    future (a closed settlement is left for the human, not filled in);
+  - a claim deadline must be a real yyyy-mm-dd date at least MIN_RUNWAY_DAYS
+    away; a settlement already closed (or closing sooner) is flagged in place
+    as "REVIEW: ... Delete this entry if confirmed", never filled in;
   - a settlement the official site shows has no money / no claim process
     (e.g. injunctive-only) is flagged in place -- eligibility becomes
     "REVIEW: likely NOT claimable ..." -- never silently deleted;
@@ -85,6 +86,10 @@ REQUEST_TIMEOUT = 240          # seconds; a research turn can run for minutes
 MAX_CONTINUATIONS = 5          # pause_turn resumes per entry
 MAX_RETRIES = 2                # on 429 / 5xx
 MAX_ENTRIES = 25               # hard per-run cap (the scraper already caps at 20)
+# Run -> human review -> merge -> Pages -> installs syncing takes up to a few
+# days, so a claim window closing sooner than this is useless to users. The
+# 10/19 run filled four entries whose deadline was that same day.
+MIN_RUNWAY_DAYS = 3
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 ALLOWED_SCHEMES = {"http", "https"}
@@ -321,13 +326,20 @@ def clean_field(value, limit: int):
     return text, None
 
 
-def valid_deadline(value, today: date) -> bool:
+def days_left(value, today: date):
+    """Whole days from today to a yyyy-mm-dd deadline (negative = closed), or
+    None if the value isn't a real date."""
     if not isinstance(value, str) or not DATE_RE.match(value):
-        return False
+        return None
     try:
-        return date.fromisoformat(value) >= today
+        return (date.fromisoformat(value) - today).days
     except ValueError:
-        return False
+        return None
+
+
+def valid_deadline(value, today: date) -> bool:
+    left = days_left(value, today)
+    return left is not None and left >= MIN_RUNWAY_DAYS
 
 
 def apply_draft(entry: dict, result: dict, seen_hosts: set, today: date) -> tuple:
@@ -354,6 +366,19 @@ def apply_draft(entry: dict, result: dict, seen_hosts: set, today: date) -> tupl
     if not host_matches(host, seen_hosts):
         return [], f"official URL host {host} was not returned by any web tool this run"
 
+    # A settlement that is already closed, or closes before a human can review
+    # and merge the PR and installs can sync, is dead on arrival. Flag it in
+    # place (like "not claimable") instead of filling a deadline nobody can use.
+    left = days_left(result.get("deadline"), today)
+    if entry.get("deadline") == "REVIEW" and left is not None and left < MIN_RUNWAY_DAYS:
+        when = "already closed" if left < 0 else f"closes in {left} day(s)"
+        if entry.get("eligibility", "").startswith("REVIEW:"):
+            entry["eligibility"] = (
+                f"REVIEW: {when} ({result['deadline']}), too soon to be claimable once merged. "
+                "Delete this entry if confirmed."
+            )
+        return [], f"claim deadline {result['deadline']} {when} -- flagged for deletion"
+
     filled = []
     notes = []
 
@@ -379,7 +404,7 @@ def apply_draft(entry: dict, result: dict, seen_hosts: set, today: date) -> tupl
             entry["deadline"] = deadline
             filled.append("deadline")
         elif deadline:
-            notes.append(f"deadline {deadline!r} is not a future yyyy-mm-dd date -- left as REVIEW")
+            notes.append(f"deadline {deadline!r} is not a valid yyyy-mm-dd date -- left as REVIEW")
     note = "; ".join(notes) or None
 
     # The official site beats the aggregator link, now that it's been vetted.
