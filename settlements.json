@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-26",
+  "updated": "2026-10-28",
   "settlements": [
     {
       "id": "google-assistant-privacy-2026",
@@ -982,215 +982,113 @@
     },
     {
       "id": "seatgeek-ticket-fee-2026",
-      "name": "SeatGeek ticket fee",
-      "eligibility": "People who bought electronic tickets to Nevada events from SeatGeek's website or mobile app from November 7, 2020 through May 12, 2025 and were charged fees.",
-      "payout": "Pro rata cash share of the $7.75M fund, based on fees SeatGeek retained",
+      "name": "SeatGeek Nevada ticket fees",
+      "eligibility": "Bought electronic tickets to Nevada events from SeatGeek's site or app between Nov. 7, 2020 and May 12, 2025 and were charged fees.",
+      "payout": "Pro rata share of a $7.75M fund, based on fees SeatGeek kept",
       "deadline": "2027-01-05",
       "url": "https://www.seatgeeknevadaclassaction.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "baptist-health-data-breach-2026",
-      "name": "Baptist Health data breach",
-      "eligibility": "People who received notice of the Baptist Health Medical Center – Drew County data incident (unauthorized network access between about April and July 2024), including notice of this Settlement.",
-      "payout": "Up to $400 for expenses, up to $80 for lost time, up to $4,000 for extraordinary losses; credit monitoring",
+      "name": "Baptist Health Medical Center Drew County data breach",
+      "eligibility": "Received notice of the 2024 Baptist Health Medical Center, Drew County data incident, including notice of this settlement.",
+      "payout": "Up to $400 expenses, $80 lost time, $4,000 extraordinary losses; credit monitoring",
       "deadline": "2026-12-08",
       "url": "https://bhsettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "starbucks-cobra-notice-2026",
-      "name": "Starbucks COBRA notice",
-      "eligibility": "Participants and beneficiaries in Starbucks' Welfare Benefits Plan (Health or Vision Plan) sent a COBRA notice between July 21, 2016 and January 1, 2023 who did not elect continuation coverage.",
-      "payout": "Pro rata share of $325,000 fund; about $30 to $74 estimated",
+      "name": "Starbucks COBRA notices",
+      "eligibility": "Starbucks health or vision plan participants sent a COBRA notice between July 21, 2016 and Jan. 1, 2023 who did not elect coverage.",
+      "payout": "Pro rata share of a $325,000 fund; amount depends on claims filed",
       "deadline": "2026-12-02",
       "url": "https://www.cobranoticeclassaction.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "thinkware-dashcam-2026",
-      "name": "Thinkware dashcam",
-      "eligibility": "People who purchased a Thinkware X700, F200PRO, DC-M2-FG-IR, DC-M2-FG or F70PRO dashcam in the United States between January 25, 2019 and August 31, 2024.",
-      "payout": "Pro rata share of the Settlement Fund",
+      "name": "Thinkware dashcams",
+      "eligibility": "Bought a Thinkware X700, F200PRO, DC-M2-FG-IR, DC-M2-FG or F70PRO dashcam in the U.S. between Jan. 25, 2019 and Aug. 31, 2024.",
+      "payout": "Pro rata share of the settlement fund",
       "deadline": "2026-12-14",
       "url": "https://www.twcamerasettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "american-medical-collection-agency-data-breach-2026",
-      "name": "American Medical Collection Agency data breach",
-      "eligibility": "Individuals who received diagnostic services from Sonic Healthcare U.S.A., Aurora Diagnostics, Clinical Pathology Laboratories or Austin Pathology Associates and are covered by the AMCA data breach settlement.",
-      "payout": "REVIEW",
+      "name": "AMCA data breach (Sonic Healthcare labs)",
+      "eligibility": "Patients of Sonic Healthcare USA, Aurora Diagnostics, Clinical Pathology Laboratories or Austin Pathology Associates whose data was exposed in the AMCA breach.",
+      "payout": "About $50 cash (no documentation) or up to $5,000 documented losses",
       "deadline": "2027-01-04",
       "url": "https://www.amcadatabreachsettlement-saca.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": true
     },
     {
       "id": "harvard-morgue-2026",
-      "name": "Harvard morgue",
-      "eligibility": "Spouses, domestic partners, children, parents, siblings, or designees of Harvard Anatomical Gift Program donors whose bodies left the Harvard Morgue for cremation or burial between Jan 1, 2003 and Mar 31, 2023; grandchildren from 2018.",
-      "payout": "Pro rata cash payment from a $53 million settlement fund",
+      "name": "Harvard Medical School morgue",
+      "eligibility": "Close relatives (spouse, partner, child, parent, sibling; some grandchildren) of Harvard anatomical-gift donors whose bodies left the Harvard Morgue for cremation or burial, 2003 to 2023.",
+      "payout": "Pro rata cash payment from a $53M fund",
       "deadline": "2026-12-09",
       "url": "https://harvardmorguesettlement.com/",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "hughes-federal-credit-union-repossession-notific-2026",
-      "name": "Hughes Federal Credit Union repossession notification",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/7m-hughes-federal-credit-union-repossession-notification-class-action-settlement/",
       "keywords": [],
       "noProofRequired": false
     },
     {
       "id": "coast-dental-tcpa-violations-2026",
-      "name": "Coast Dental TCPA violations",
-      "eligibility": "People in the U.S. who, in the four years before the suit was filed, got more than one Coast Dental appointment-reminder text or call within 12 months after replying \"stop\" or a similar opt-out.",
-      "payout": "Pro rata cash payment up to $59, or a voucher up to $99 for an electronic toothbrush",
+      "name": "Coast Dental text and call opt-outs",
+      "eligibility": "Got more than one Coast Dental appointment-reminder text or call within 12 months after replying \"stop\" or a similar opt-out.",
+      "payout": "Pro rata cash (up to about $59) or a toothbrush voucher (up to about $99)",
       "deadline": "2026-12-24",
       "url": "https://cdstcpasettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "aramark-capital-one-arena-venue-fee-2026",
-      "name": "Aramark Capital One Arena venue fee",
-      "eligibility": "People in the United States who bought food, beverages or other items from Aramark at Capital One Arena and paid a 3% venue fee between October 1, 2024 and December 31, 2025.",
-      "payout": "Pro rata share of a $4.5M settlement fund after costs and fees; no fixed amount",
+      "name": "Capital One Arena 3% venue fee (Aramark)",
+      "eligibility": "Bought food, drinks or other items from Aramark at Capital One Arena and paid a 3% venue fee between Oct. 1, 2024 and Dec. 31, 2025.",
+      "payout": "Pro rata share of a $4.5M fund after costs and fees",
       "deadline": "2026-12-04",
       "url": "https://www.venuefeesettlement.com/",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "bank-of-america-vacation-pay-2026",
-      "name": "Bank of America vacation pay",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-28m-bank-of-america-vacation-pay-class-action-settlement/",
       "keywords": [],
       "noProofRequired": false
     },
     {
       "id": "hyundai-and-kia-airbag-2026",
-      "name": "Hyundai and Kia airbag",
-      "eligibility": "Current and former owners or lessees of eligible Hyundai and Kia Class Vehicles with ZF-TRW airbag control units covered by the recalls.",
-      "payout": "Reimbursement of documented recall out-of-pocket expenses and/or a Residual Distribution payment",
+      "name": "Hyundai and Kia ZF-TRW airbag control units",
+      "eligibility": "Current or former owners or lessees of eligible Hyundai and Kia vehicles with ZF-TRW airbag control units covered by the recalls.",
+      "payout": "Up to $350 (recalled) or $150 (unrecalled) per vehicle, plus documented recall costs",
       "deadline": "2027-04-08",
-      "url": "https://www.acusettlement.com",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "jeep-steering-wheel-front-suspension-recall-2026",
-      "name": "Jeep steering wheel, front suspension recall",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/jeep-steering-wheel-front-suspension-recall-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
-    },
-    {
-      "id": "toyota-air-bag-control-units-78-5m-2026",
-      "name": "Toyota air bag control units $78.5M",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/consumer-products/auto-news/toyota-air-bag-control-units-78-5m-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
-    },
-    {
-      "id": "certainteed-horizon-shingles-2026",
-      "name": "CertainTeed Horizon shingles",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/certainteed-horizon-shingles-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
-    },
-    {
-      "id": "pacer-record-fees-125m-2026",
-      "name": "PACER record fees $125M",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/money/fees/pacer-record-fees-125m-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
-    },
-    {
-      "id": "trinity-industries-et-plus-guardrails-6m-2026",
-      "name": "Trinity Industries ET-Plus guardrails $6M",
-      "eligibility": "Missouri counties with 10,000+ people (2014 census), the City of St. Louis and the state transportation authority that have or had 4-inch feeder chute ET-Plus guardrail end terminals on roads they maintain.",
-      "payout": "$1,700 per approved undamaged ET Plus replaced, plus a free replacement terminal; reimbursement of past costs",
-      "deadline": "2028-10-09",
-      "url": "https://trinityetplussettlement.com/",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "anthem-microprocessor-controlled-prosthesis-cove-2026",
-      "name": "Anthem microprocessor-controlled prosthesis coverage",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/insurance/anthem-microprocessor-controlled-prosthesis-coverage-class-action-settlement/",
+      "url": "https://www.acusettlement.com/hyundaikia",
       "keywords": [],
       "noProofRequired": false
     },
     {
       "id": "sanyo-solar-panels-delamination-2026",
-      "name": "Sanyo solar panels delamination",
-      "eligibility": "Anyone who purchased and installed Sanyo-brand HIP-xxxBA2, BA3 or BA5 series solar panels for residential use, or bought a residence with those panels installed.",
-      "payout": "Replacement panels or cash payment",
+      "name": "Sanyo HIP solar panel delamination",
+      "eligibility": "Bought and installed Sanyo HIP-xxxBA2, BA3 or BA5 residential solar panels, or bought a home with them, and the panels show circular delamination.",
+      "payout": "Replacement panels or prorated cash; photos and proof of ownership needed",
       "deadline": "2029-12-31",
       "url": "https://www.sanyosolarclaims.com/",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "my-little-steamer-2026",
-      "name": "My Little Steamer",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/consumer-products/household/my-little-steamer-class-action-settlement/",
       "keywords": [],
       "noProofRequired": false
     },
     {
       "id": "sizzling-platter-job-posting-2026",
-      "name": "Sizzling Platter Job Posting",
-      "eligibility": "People who applied online for a Crew Member or Lead job with Sizzling Platter, LLC in Washington State from January 1, 2023 to July 26, 2025.",
-      "payout": "$937,650",
+      "name": "Sizzling Platter job postings (Washington)",
+      "eligibility": "Applied online for a Crew Member or Lead job at Sizzling Platter in Washington (Jan. 1, 2023 to July 26, 2025) in a posting missing the pay range or benefits.",
+      "payout": "Equal share of a fund of up to $937,650",
       "deadline": "2026-11-17",
       "url": "https://sizzlingplattersettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     }
   ]
 }
