@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-20",
+  "updated": "2026-10-28",
   "settlements": [
     {
       "id": "google-assistant-privacy-2026",
@@ -977,6 +977,116 @@
       "payout": "Pro rata share of a $4.5M fund based on time worked; proof of age and work needed",
       "deadline": "2026-11-20",
       "url": "https://www.hearthsidefssettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "seatgeek-ticket-fee-2026",
+      "name": "SeatGeek Nevada ticket fees",
+      "eligibility": "Bought electronic tickets to Nevada events from SeatGeek's site or app between Nov. 7, 2020 and May 12, 2025 and were charged fees.",
+      "payout": "Pro rata share of a $7.75M fund, based on fees SeatGeek kept",
+      "deadline": "2027-01-05",
+      "url": "https://www.seatgeeknevadaclassaction.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "baptist-health-data-breach-2026",
+      "name": "Baptist Health Medical Center Drew County data breach",
+      "eligibility": "Received notice of the 2024 Baptist Health Medical Center, Drew County data incident, including notice of this settlement.",
+      "payout": "Up to $400 expenses, $80 lost time, $4,000 extraordinary losses; credit monitoring",
+      "deadline": "2026-12-08",
+      "url": "https://bhsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "starbucks-cobra-notice-2026",
+      "name": "Starbucks COBRA notices",
+      "eligibility": "Starbucks health or vision plan participants sent a COBRA notice between July 21, 2016 and Jan. 1, 2023 who did not elect coverage.",
+      "payout": "Pro rata share of a $325,000 fund; amount depends on claims filed",
+      "deadline": "2026-12-02",
+      "url": "https://www.cobranoticeclassaction.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "thinkware-dashcam-2026",
+      "name": "Thinkware dashcams",
+      "eligibility": "Bought a Thinkware X700, F200PRO, DC-M2-FG-IR, DC-M2-FG or F70PRO dashcam in the U.S. between Jan. 25, 2019 and Aug. 31, 2024.",
+      "payout": "Pro rata share of the settlement fund",
+      "deadline": "2026-12-14",
+      "url": "https://www.twcamerasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "american-medical-collection-agency-data-breach-2026",
+      "name": "AMCA data breach (Sonic Healthcare labs)",
+      "eligibility": "Patients of Sonic Healthcare USA, Aurora Diagnostics, Clinical Pathology Laboratories or Austin Pathology Associates whose data was exposed in the AMCA breach.",
+      "payout": "About $50 cash (no documentation) or up to $5,000 documented losses",
+      "deadline": "2027-01-04",
+      "url": "https://www.amcadatabreachsettlement-saca.com/",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "harvard-morgue-2026",
+      "name": "Harvard Medical School morgue",
+      "eligibility": "Close relatives (spouse, partner, child, parent, sibling; some grandchildren) of Harvard anatomical-gift donors whose bodies left the Harvard Morgue for cremation or burial, 2003 to 2023.",
+      "payout": "Pro rata cash payment from a $53M fund",
+      "deadline": "2026-12-09",
+      "url": "https://harvardmorguesettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "coast-dental-tcpa-violations-2026",
+      "name": "Coast Dental text and call opt-outs",
+      "eligibility": "Got more than one Coast Dental appointment-reminder text or call within 12 months after replying \"stop\" or a similar opt-out.",
+      "payout": "Pro rata cash (up to about $59) or a toothbrush voucher (up to about $99)",
+      "deadline": "2026-12-24",
+      "url": "https://cdstcpasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "aramark-capital-one-arena-venue-fee-2026",
+      "name": "Capital One Arena 3% venue fee (Aramark)",
+      "eligibility": "Bought food, drinks or other items from Aramark at Capital One Arena and paid a 3% venue fee between Oct. 1, 2024 and Dec. 31, 2025.",
+      "payout": "Pro rata share of a $4.5M fund after costs and fees",
+      "deadline": "2026-12-04",
+      "url": "https://www.venuefeesettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "hyundai-and-kia-airbag-2026",
+      "name": "Hyundai and Kia ZF-TRW airbag control units",
+      "eligibility": "Current or former owners or lessees of eligible Hyundai and Kia vehicles with ZF-TRW airbag control units covered by the recalls.",
+      "payout": "Up to $350 (recalled) or $150 (unrecalled) per vehicle, plus documented recall costs",
+      "deadline": "2027-04-08",
+      "url": "https://www.acusettlement.com/hyundaikia",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "sanyo-solar-panels-delamination-2026",
+      "name": "Sanyo HIP solar panel delamination",
+      "eligibility": "Bought and installed Sanyo HIP-xxxBA2, BA3 or BA5 residential solar panels, or bought a home with them, and the panels show circular delamination.",
+      "payout": "Replacement panels or prorated cash; photos and proof of ownership needed",
+      "deadline": "2029-12-31",
+      "url": "https://www.sanyosolarclaims.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "sizzling-platter-job-posting-2026",
+      "name": "Sizzling Platter job postings (Washington)",
+      "eligibility": "Applied online for a Crew Member or Lead job at Sizzling Platter in Washington (Jan. 1, 2023 to July 26, 2025) in a posting missing the pay range or benefits.",
+      "payout": "Equal share of a fund of up to $937,650",
+      "deadline": "2026-11-17",
+      "url": "https://sizzlingplattersettlement.com/",
       "keywords": [],
       "noProofRequired": false
     }
