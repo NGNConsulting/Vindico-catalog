@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28",
+  "updated": "2026-11-09",
   "settlements": [
     {
       "id": "google-assistant-privacy-2026",
@@ -1089,6 +1089,76 @@
       "url": "https://sizzlingplattersettlement.com/",
       "keywords": [],
       "noProofRequired": false
+    },
+    {
+      "id": "simplilearn-vppa-violation-2026",
+      "name": "Simplilearn video privacy (VPPA)",
+      "eligibility": "Accessed or used the Simplilearn website or apps in the U.S. between Feb. 26, 2023 and Sept. 16, 2026.",
+      "payout": "Equal cash share of a $3M fund after costs and fees",
+      "deadline": "2026-12-15",
+      "url": "https://www.simplilearnprivacysettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "covenant-health-data-breach-2026",
+      "name": "Covenant Health data breach",
+      "eligibility": "U.S. residents whose information was potentially compromised in the May 2025 Covenant Health data incident, or who were sent notice of it.",
+      "payout": "About $75 cash or up to $5,000 documented losses; credit monitoring",
+      "deadline": "2026-12-30",
+      "url": "https://covenanthealthdatasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "allstate-property-insurance-2026",
+      "name": "Allstate Arizona property depreciation",
+      "eligibility": "Owner of an Arizona structure insured by Allstate or an affiliate who made a structural damage claim and was paid between Apr. 25, 2017 and Oct. 1, 2026.",
+      "payout": "$10 to $360, or 50% of withheld depreciation plus 10% interest",
+      "deadline": "2027-01-29",
+      "url": "https://www.hernandezdepreciationsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "goodrx-data-privacy-2026",
+      "name": "GoodRx data privacy",
+      "eligibility": "Used a GoodRx website, app or service (including GoodRx Gold, HeyDoctor and GoodRx Care) before Apr. 20, 2024.",
+      "payout": "Equal pro rata share of a $32M fund",
+      "deadline": "2026-12-29",
+      "url": "https://goodrxprivacysettlement.com/",
+      "keywords": [],
+      "noProofRequired": true
+    },
+    {
+      "id": "planned-parenthood-lab-data-breach-2026",
+      "name": "Laboratory Services Cooperative data breach (Planned Parenthood labs)",
+      "eligibility": "U.S. residents whose information was exposed in the LSC data incident, including people with Planned Parenthood-ordered lab tests through Oct. 27, 2024.",
+      "payout": "Pro rata cash share of a $6.1M fund; credit monitoring; documented losses",
+      "deadline": "2026-11-24",
+      "url": "https://www.lscdatasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "city-of-overland-missouri-special-deterrent-fee-2026",
+      "name": "Overland, Missouri special deterrent fees",
+      "eligibility": "Paid a Special Deterrent Fee to the City of Overland, Missouri in connection with a municipal court plea agreement since Aug. 4, 2012.",
+      "payout": "$80 per approved claimant",
+      "deadline": "2026-11-24",
+      "url": "https://www.overlandspecialdeterrentfeesettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "raging-waters-processing-fee-2026",
+      "name": "Raging Waters ticket processing fees",
+      "eligibility": "Bought Raging Waters tickets on ragingwaters.com between June 1, 2020 and June 22, 2026 and paid a processing fee.",
+      "payout": "Pro rata share of an $850,000 fund, based on fees paid",
+      "deadline": "2026-11-24",
+      "url": "https://www.ragingwaterssettlement.com/",
+      "keywords": [],
+      "noProofRequired": true
     }
   ]
 }
