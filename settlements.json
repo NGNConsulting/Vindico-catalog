@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02",
+  "updated": "2026-11-09",
   "settlements": [
     {
       "id": "google-assistant-privacy-2026",
@@ -1092,129 +1092,73 @@
     },
     {
       "id": "simplilearn-vppa-violation-2026",
-      "name": "Simplilearn VPPA violation",
-      "eligibility": "Anyone who accessed or used the Simplilearn platform (website or apps) in the United States between February 26, 2023 and September 16, 2026.",
-      "payout": "Pro rata (equal) cash share of the $3 million Settlement Fund after costs and fees",
+      "name": "Simplilearn video privacy (VPPA)",
+      "eligibility": "Accessed or used the Simplilearn website or apps in the U.S. between Feb. 26, 2023 and Sept. 16, 2026.",
+      "payout": "Equal cash share of a $3M fund after costs and fees",
       "deadline": "2026-12-15",
       "url": "https://www.simplilearnprivacysettlement.com/",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "zumba-privacy-2026",
-      "name": "Zumba privacy",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2-7m-zumba-privacy-class-action-settlement/",
       "keywords": [],
       "noProofRequired": false
     },
     {
       "id": "covenant-health-data-breach-2026",
       "name": "Covenant Health data breach",
-      "eligibility": "People living in the United States whose private information was potentially compromised in the Covenant Health data incident of about May 18, 2025, or who were sent a notice of the incident.",
-      "payout": "REVIEW",
+      "eligibility": "U.S. residents whose information was potentially compromised in the May 2025 Covenant Health data incident, or who were sent notice of it.",
+      "payout": "About $75 cash or up to $5,000 documented losses; credit monitoring",
       "deadline": "2026-12-30",
-      "url": "https://covenanthealthdatasettlement.com",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "jimmy-john-s-job-postings-2026",
-      "name": "Jimmy John’s job postings",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/975k-jimmy-johns-job-postings-class-action-settlement/",
+      "url": "https://covenanthealthdatasettlement.com/",
       "keywords": [],
       "noProofRequired": false
     },
     {
       "id": "allstate-property-insurance-2026",
-      "name": "Allstate property insurance",
-      "eligibility": "Arizona structures insured by Allstate or affiliated insurers, where the owner made a structural damage claim and received payment between April 25, 2017 and October 1, 2026.",
-      "payout": "REVIEW",
+      "name": "Allstate Arizona property depreciation",
+      "eligibility": "Owner of an Arizona structure insured by Allstate or an affiliate who made a structural damage claim and was paid between Apr. 25, 2017 and Oct. 1, 2026.",
+      "payout": "$10 to $360, or 50% of withheld depreciation plus 10% interest",
       "deadline": "2027-01-29",
       "url": "https://www.hernandezdepreciationsettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "goodrx-data-privacy-2026",
       "name": "GoodRx data privacy",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/32m-goodrx-data-privacy-class-action-settlement/",
+      "eligibility": "Used a GoodRx website, app or service (including GoodRx Gold, HeyDoctor and GoodRx Care) before Apr. 20, 2024.",
+      "payout": "Equal pro rata share of a $32M fund",
+      "deadline": "2026-12-29",
+      "url": "https://goodrxprivacysettlement.com/",
       "keywords": [],
-      "noProofRequired": false
-    },
-    {
-      "id": "brighthouse-life-insurance-breach-of-contract-2026",
-      "name": "Brighthouse Life Insurance breach of contract",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-25m-brighthouse-life-insurance-breach-of-contract-class-action-settlement/",
-      "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     },
     {
       "id": "planned-parenthood-lab-data-breach-2026",
-      "name": "Planned Parenthood lab data breach",
-      "eligibility": "U.S. residents whose personal information was potentially compromised in the LSC data incident, including people who received or paid for Planned Parenthood-ordered lab tests on or before Oct. 27, 2024, and LSC employees.",
-      "payout": "$1,000,",
+      "name": "Laboratory Services Cooperative data breach (Planned Parenthood labs)",
+      "eligibility": "U.S. residents whose information was exposed in the LSC data incident, including people with Planned Parenthood-ordered lab tests through Oct. 27, 2024.",
+      "payout": "Pro rata cash share of a $6.1M fund; credit monitoring; documented losses",
       "deadline": "2026-11-24",
       "url": "https://www.lscdatasettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
-    },
-    {
-      "id": "covenant-transport-job-posting-2026",
-      "name": "Covenant Transport Job Posting",
-      "eligibility": "People whose records show they applied online for a team driver position with Covenant Transport in Washington State from January 1, 2023 to June 17, 2024.",
-      "payout": "$920",
-      "deadline": "2026-11-09",
-      "url": "https://www.covenanttransportsettlement.com/",
-      "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "city-of-overland-missouri-special-deterrent-fee-2026",
-      "name": "City of Overland, Missouri, Special Deterrent Fee",
-      "eligibility": "Anyone who paid a Special Deterrent Fee to the City of Overland on or after August 4, 2012.",
-      "payout": "$80",
+      "name": "Overland, Missouri special deterrent fees",
+      "eligibility": "Paid a Special Deterrent Fee to the City of Overland, Missouri in connection with a municipal court plea agreement since Aug. 4, 2012.",
+      "payout": "$80 per approved claimant",
       "deadline": "2026-11-24",
       "url": "https://www.overlandspecialdeterrentfeesettlement.com/",
       "keywords": [],
-      "noProofRequired": false,
-      "aiDrafted": true
+      "noProofRequired": false
     },
     {
       "id": "raging-waters-processing-fee-2026",
-      "name": "Raging Waters Processing Fee",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
+      "name": "Raging Waters ticket processing fees",
+      "eligibility": "Bought Raging Waters tickets on ragingwaters.com between June 1, 2020 and June 22, 2026 and paid a processing fee.",
+      "payout": "Pro rata share of an $850,000 fund, based on fees paid",
       "deadline": "2026-11-24",
-      "url": "https://classactionbuddy.com/settlements/raging-waters-processing-fee-settlement/",
+      "url": "https://www.ragingwaterssettlement.com/",
       "keywords": [],
-      "noProofRequired": false
-    },
-    {
-      "id": "california-gambling-control-commission-43-3m-fee-2026",
-      "name": "California Gambling Control Commission 43.3M Fees",
-      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
-      "payout": "REVIEW",
-      "deadline": "REVIEW",
-      "url": "https://classactionbuddy.com/settlements/california-gambling-control-commission-433m-fees-settlement/",
-      "keywords": [],
-      "noProofRequired": false
+      "noProofRequired": true
     }
   ]
 }
