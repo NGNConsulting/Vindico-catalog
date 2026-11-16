@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-12",
+  "updated": "2026-11-16",
   "settlements": [
     {
       "id": "google-assistant-privacy-2026",
@@ -1197,6 +1197,91 @@
       "payout": "$10 for each day the car was down",
       "deadline": "2026-12-28",
       "url": "https://hvbatteryrepairsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "prime-healthcare-tracking-pixels-2026",
+      "name": "Prime Healthcare tracking pixels",
+      "eligibility": "Patients of Prime Healthcare and the relevant hospitals who accessed one of Prime Healthcare's websites between November 1, 2019 and October 18, 2023.",
+      "payout": "REVIEW",
+      "deadline": "2026-12-21",
+      "url": "https://phsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "benworth-capital-data-breach-2026",
+      "name": "Benworth Capital data breach",
+      "eligibility": "Living U.S. residents who were sent notice from Benworth Capital Partners LLC that their Private Information may have been impacted in the May 18, 2025 data incident.",
+      "payout": "$50 cash or up to $5,000 documented losses, plus 1 year free credit monitoring",
+      "deadline": "2026-12-21",
+      "url": "https://benworthdatasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "nordstrom-job-listing-2026",
+      "name": "Nordstrom job listing",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/834000-nordstrom-job-listing-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "academy-mortgage-data-breach-2026",
+      "name": "Academy Mortgage data breach",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-9m-academy-mortgage-data-breach-class-action-settlement/",
+      "keywords": [],
+      "noProofRequired": false
+    },
+    {
+      "id": "fordham-university-covid-19-tuition-2026",
+      "name": "Fordham University COVID-19 tuition",
+      "eligibility": "Fordham students enrolled in at least one class originally scheduled to be in person in Spring 2020, who paid tuition or Mandatory Fees for that semester and were still enrolled on March 1, 2020.",
+      "payout": "Automatic pro rata payment from the $2.55M settlement fund; no claim form needed",
+      "deadline": "2026-12-14",
+      "url": "https://fordhamrefundlawsuit.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "columbia-university-data-breach-2026",
+      "name": "Columbia University data breach",
+      "eligibility": "Individuals residing in the United States whose Private Information was compromised in the May 2025 Columbia University cyberattack and who were sent notice of it.",
+      "payout": "Up to $8,500 documented losses or a pro rata cash payment; plus 2 years credit monitoring",
+      "deadline": "2027-01-21",
+      "url": "https://www.columbiauniversitydatasettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "ford-transit-trail-defective-wheel-wells-2026",
+      "name": "Ford Transit Trail defective wheel wells",
+      "eligibility": "Original owners or lessees who bought or leased a new 2023 or 2024 Ford Transit Trail for personal, family or household use before June 1, 2024, and got no prior compensation from Ford.",
+      "payout": "$6,000 per Class Vehicle",
+      "deadline": "2027-01-15",
+      "url": "https://www.fordtransittrailsettlement.com/",
+      "keywords": [],
+      "noProofRequired": false,
+      "aiDrafted": true
+    },
+    {
+      "id": "bank-of-america-efta-violation-2026",
+      "name": "Bank of America EFTA violation",
+      "eligibility": "REVIEW: verify on official administrator site and describe who qualifies.",
+      "payout": "REVIEW",
+      "deadline": "REVIEW",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/2m-bank-of-america-efta-violation-class-action-settlement/",
       "keywords": [],
       "noProofRequired": false
     }
